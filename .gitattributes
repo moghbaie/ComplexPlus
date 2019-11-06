@@ -1,0 +1,16 @@
+*backup.RData filter=lfs diff=lfs merge=lfs -text
+interface/db/interfacedBackup.RData filter=lfs diff=lfs merge=lfs -text
+data/layers/Gene_Backup.RData filter=lfs diff=lfs merge=lfs -text
+data/layers/Protein_Backup.RData filter=lfs diff=lfs merge=lfs -text
+data/layers/Normalized_Layers_Backup.RData filter=lfs diff=lfs merge=lfs -text
+data/layers/co-expression/db/old_Co-expression.RData filter=lfs diff=lfs merge=lfs -text
+data/layers/co-expression/db/old_Coexpression_merged.RData filter=lfs diff=lfs merge=lfs -text
+data/layers/co-expression/graph/old_Coexpression.RData filter=lfs diff=lfs merge=lfs -text
+data/layers/disease/records/All_Diseases filter=lfs diff=lfs merge=lfs -text
+data/layers/disease/records/All_Diseases.txt filter=lfs diff=lfs merge=lfs -text
+data/layers/co-expression/db/old_Co-expression_merged.RData filter=lfs diff=lfs merge=lfs -text
+data/layers/genetic_interaction/db/Genetic_Interaction.sqlite filter=lfs diff=lfs merge=lfs -text
+data/layers/genetic_interaction filter=lfs diff=lfs merge=lfs -text
+data/layers/genetic_interaction.RData filter=lfs diff=lfs merge=lfs -text
+data/mapping/db/HUMAN_9606_idmapping.dat filter=lfs diff=lfs merge=lfs -text
+data/mapping/db/goa/goa_human.txt filter=lfs diff=lfs merge=lfs -text
