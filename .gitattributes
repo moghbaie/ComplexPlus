@@ -14,3 +14,4 @@ data/layers/genetic_interaction filter=lfs diff=lfs merge=lfs -text
 data/layers/genetic_interaction.RData filter=lfs diff=lfs merge=lfs -text
 data/mapping/db/HUMAN_9606_idmapping.dat filter=lfs diff=lfs merge=lfs -text
 data/mapping/db/goa/goa_human.txt filter=lfs diff=lfs merge=lfs -text
+data/mapping/db/uniprot/HUMAN_9606_idmapping.dat filter=lfs diff=lfs merge=lfs -text

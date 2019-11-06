@@ -1,0 +1,637 @@
+"File_Name" "Network_Group_Name" "Network_Name" "Source" "Pubmed_ID"
+"1" "Predicted.I2D-BIND-Fly2Human.txt" "Predicted" "I2D-BIND-Fly2Human" "I2D" 10871269
+"2" "Predicted.I2D-BIND-Mouse2Human.txt" "Predicted" "I2D-BIND-Mouse2Human" "I2D" 10871269
+"3" "Predicted.I2D-BIND-Rat2Human.txt" "Predicted" "I2D-BIND-Rat2Human" "I2D" 10871269
+"4" "Predicted.I2D-BIND-Worm2Human.txt" "Predicted" "I2D-BIND-Worm2Human" "I2D" 10871269
+"5" "Predicted.I2D-BIND-Yeast2Human.txt" "Predicted" "I2D-BIND-Yeast2Human" "I2D" 10871269
+"6" "Predicted.I2D-BioGRID-Fly2Human.txt" "Predicted" "I2D-BioGRID-Fly2Human" "I2D" 16381927
+"7" "Predicted.I2D-BioGRID-Mouse2Human.txt" "Predicted" "I2D-BioGRID-Mouse2Human" "I2D" 16381927
+"8" "Predicted.I2D-BioGRID-Rat2Human.txt" "Predicted" "I2D-BioGRID-Rat2Human" "I2D" 16381927
+"9" "Predicted.I2D-BioGRID-Worm2Human.txt" "Predicted" "I2D-BioGRID-Worm2Human" "I2D" 16381927
+"10" "Predicted.I2D-BioGRID-Yeast2Human.txt" "Predicted" "I2D-BioGRID-Yeast2Human" "I2D" 16381927
+"11" "Predicted.I2D-Chen-Pawson-2009-PiwiScreen-Mouse2Human.txt" "Predicted" "I2D-Chen-Pawson-2009-PiwiScreen-Mouse2Human" "I2D" 19918066
+"12" "Predicted.I2D-Formstecher-Daviet-2005-Embryo-Fly2Human.txt" "Predicted" "I2D-Formstecher-Daviet-2005-Embryo-Fly2Human" "I2D" 15710747
+"13" "Predicted.I2D-Giot-Rothbert-2003-Low-Fly2Human.txt" "Predicted" "I2D-Giot-Rothbert-2003-Low-Fly2Human" "I2D" 14605208
+"14" "Predicted.I2D-INNATEDB-Mouse2Human.txt" "Predicted" "I2D-INNATEDB-Mouse2Human" "I2D" 18766178
+"15" "Predicted.I2D-IntAct-Fly2Human.txt" "Predicted" "I2D-IntAct-Fly2Human" "I2D" 19850723
+"16" "Predicted.I2D-IntAct-Mouse2Human.txt" "Predicted" "I2D-IntAct-Mouse2Human" "I2D" 19850723
+"17" "Predicted.I2D-IntAct-Rat2Human.txt" "Predicted" "I2D-IntAct-Rat2Human" "I2D" 19850723
+"18" "Predicted.I2D-IntAct-Worm2Human.txt" "Predicted" "I2D-IntAct-Worm2Human" "I2D" 19850723
+"19" "Predicted.I2D-IntAct-Yeast2Human.txt" "Predicted" "I2D-IntAct-Yeast2Human" "I2D" 19850723
+"20" "Predicted.I2D-Krogan-Greenblatt-2006-Core-Yeast2Human.txt" "Predicted" "I2D-Krogan-Greenblatt-2006-Core-Yeast2Human" "I2D" 16554755
+"21" "Predicted.I2D-Krogan-Greenblatt-2006-NonCore-Yeast2Human.txt" "Predicted" "I2D-Krogan-Greenblatt-2006-NonCore-Yeast2Human" "I2D" 16554755
+"22" "Predicted.I2D-Li-Vidal-2004-CORE-1-Worm2Human.txt" "Predicted" "I2D-Li-Vidal-2004-CORE-1-Worm2Human" "I2D" 14704431
+"23" "Predicted.I2D-Li-Vidal-2004-non-core-Worm2Human.txt" "Predicted" "I2D-Li-Vidal-2004-non-core-Worm2Human" "I2D" 14704431
+"24" "Predicted.I2D-MGI-Mouse2Human.txt" "Predicted" "I2D-MGI-Mouse2Human" "I2D" 15707487
+"25" "Predicted.I2D-MINT-Fly2Human.txt" "Predicted" "I2D-MINT-Fly2Human" "I2D" 11911893
+"26" "Predicted.I2D-MINT-Mouse2Human.txt" "Predicted" "I2D-MINT-Mouse2Human" "I2D" 11911893
+"27" "Predicted.I2D-MINT-Rat2Human.txt" "Predicted" "I2D-MINT-Rat2Human" "I2D" 11911893
+"28" "Predicted.I2D-MINT-Worm2Human.txt" "Predicted" "I2D-MINT-Worm2Human" "I2D" 11911893
+"29" "Predicted.I2D-MINT-Yeast2Human.txt" "Predicted" "I2D-MINT-Yeast2Human" "I2D" 11911893
+"30" "Predicted.I2D-Manual-Mouse2Human.txt" "Predicted" "I2D-Manual-Mouse2Human" "I2D" 0
+"31" "Predicted.I2D-Manual-Rat2Human.txt" "Predicted" "I2D-Manual-Rat2Human" "I2D" 0
+"32" "Predicted.I2D-Ptacek-Snyder-2005-Yeast2Human.txt" "Predicted" "I2D-Ptacek-Snyder-2005-Yeast2Human" "I2D" 16319894
+"33" "Predicted.I2D-Tarassov-PCA-Yeast2Human.txt" "Predicted" "I2D-Tarassov-PCA-Yeast2Human" "I2D" 18467557
+"34" "Predicted.I2D-Tewari-Vidal-2004-TGFb-Worm2Human.txt" "Predicted" "I2D-Tewari-Vidal-2004-TGFb-Worm2Human" "I2D" 14992718
+"35" "Predicted.I2D-Wang-Orkin-2006-EScmplx-Mouse2Human.txt" "Predicted" "I2D-Wang-Orkin-2006-EScmplx-Mouse2Human" "I2D" 17093407
+"36" "Predicted.I2D-Wang-Orkin-2006-EScmplxlow-Mouse2Human.txt" "Predicted" "I2D-Wang-Orkin-2006-EScmplxlow-Mouse2Human" "I2D" 17093407
+"37" "Predicted.I2D-Yu-Vidal-2008-GoldStd-Yeast2Human.txt" "Predicted" "I2D-Yu-Vidal-2008-GoldStd-Yeast2Human" "I2D" 18719252
+"38" "Predicted.I2D-vonMering-Bork-2002-High-Yeast2Human.txt" "Predicted" "I2D-vonMering-Bork-2002-High-Yeast2Human" "I2D" 12000970
+"39" "Predicted.I2D-vonMering-Bork-2002-Low-Yeast2Human.txt" "Predicted" "I2D-vonMering-Bork-2002-Low-Yeast2Human" "I2D" 12000970
+"40" "Predicted.I2D-vonMering-Bork-2002-Medium-Yeast2Human.txt" "Predicted" "I2D-vonMering-Bork-2002-Medium-Yeast2Human" "I2D" 12000970
+"41" "Predicted.Stuart-Kim-2003.txt" "Predicted" "Stuart-Kim-2003" "SUPPLEMENTARY_MATERIAL" 12934013
+"42" "Predicted.Wu-Stein-2010.txt" "Predicted" "Wu-Stein-2010" "SUPPLEMENTARY_MATERIAL" 20482850
+"43" "Co-expression.Agnelli-Neri-2007.txt" "Co-expression" "Agnelli-Neri-2007" "GEO" 17367409
+"44" "Co-expression.Agnelli-Neri-2009.txt" "Co-expression" "Agnelli-Neri-2009" "GEO" 19396863
+"45" "Co-expression.Alter-Stephan-2011.txt" "Co-expression" "Alter-Stephan-2011" "GEO" 21379579
+"46" "Co-expression.Ariazi-Jordan-2011.txt" "Co-expression" "Ariazi-Jordan-2011" "GEO" 22011582
+"47" "Co-expression.Arijs-Rutgeerts-2009.txt" "Co-expression" "Arijs-Rutgeerts-2009" "GEO" 19956723
+"48" "Co-expression.Balgobind-den_Boer-2011.txt" "Co-expression" "Balgobind-den Boer-2011" "GEO" 20971820
+"49" "Co-expression.Barnes-Colbert-2009.txt" "Co-expression" "Barnes-Colbert-2009" "GEO" 19565513
+"50" "Co-expression.Barnes-Glass-2010.txt" "Co-expression" "Barnes-Glass-2010" "GEO" 20662067
+"51" "Co-expression.Barretina-Singer-2010.txt" "Co-expression" "Barretina-Singer-2010" "GEO" 20601955
+"52" "Co-expression.Baty-Brutsche-2006.txt" "Co-expression" "Baty-Brutsche-2006" "GEO" 17010189
+"53" "Co-expression.Beane-Spira-2007.txt" "Co-expression" "Beane-Spira-2007" "GEO" 17894889
+"54" "Co-expression.Berchtold-Cotman-2008.txt" "Co-expression" "Berchtold-Cotman-2008" "GEO" 18832152
+"55" "Co-expression.Berkofsky-Fessler-Hilton-2009.txt" "Co-expression" "Berkofsky-Fessler-Hilton-2009" "GEO" 19755512
+"56" "Co-expression.Bhojwani-Carroll-2006.txt" "Co-expression" "Bhojwani-Carroll-2006" "GEO" 16822902
+"57" "Co-expression.Bigler-Russell-2013.txt" "Co-expression" "Bigler-Russell-2013" "GEO" 23308107
+"58" "Co-expression.Bild-Nevins-2006_A.txt" "Co-expression" "Bild-Nevins-2006 A" "GEO" 16273092
+"59" "Co-expression.Bild-Nevins-2006_C.txt" "Co-expression" "Bild-Nevins-2006 C" "GEO" 16273092
+"60" "Co-expression.Bjornsdottir-O'Toole-2011.txt" "Co-expression" "Bjornsdottir-O'Toole-2011" "GEO" 21779351
+"61" "Co-expression.Blader-Boothroyd-2001.txt" "Co-expression" "Blader-Boothroyd-2001" "SUPPLEMENTARY_MATERIAL" 11294868
+"62" "Co-expression.Bonome-Birrer-2008.txt" "Co-expression" "Bonome-Birrer-2008" "GEO" 18593951
+"63" "Co-expression.Bos-Massague-2009.txt" "Co-expression" "Bos-Massague-2009" "GEO" 19421193
+"64" "Co-expression.Botling-Micke-2013.txt" "Co-expression" "Botling-Micke-2013" "GEO" 23032747
+"65" "Co-expression.Broyl-Sonneveld-2010.txt" "Co-expression" "Broyl-Sonneveld-2010" "GEO" 20574050
+"66" "Co-expression.Burczynski-Dorner-2006.txt" "Co-expression" "Burczynski-Dorner-2006" "GEO" 16436634
+"67" "Co-expression.Chang-Katzenellenbogen-2008.txt" "Co-expression" "Chang-Katzenellenbogen-2008" "GEO" 18258689
+"68" "Co-expression.Chapman-Golub-2011.txt" "Co-expression" "Chapman-Golub-2011" "GEO" 21430775
+"69" "Co-expression.Chen-Hessner-2014.txt" "Co-expression" "Chen-Hessner-2014" "GEO" 24760139
+"70" "Co-expression.Chen-Yeatman-2010.txt" "Co-expression" "Chen-Yeatman-2010" "GEO" 19266279
+"71" "Co-expression.Chen-Zhao-2008.txt" "Co-expression" "Chen-Zhao-2008" "GEO" 18669583
+"72" "Co-expression.Cheok-Evans-2003.txt" "Co-expression" "Cheok-Evans-2003" "GEO" 12704389
+"73" "Co-expression.Chibon-Aurias-2010.txt" "Co-expression" "Chibon-Aurias-2010" "GEO" 20581836
+"74" "Co-expression.Chin-Gray-2006.txt" "Co-expression" "Chin-Gray-2006" "GEO" 17157792
+"75" "Co-expression.Chng-Fonseca-2007.txt" "Co-expression" "Chng-Fonseca-2007" "GEO" 17409404
+"76" "Co-expression.Chowdary-Mazumder-2006.txt" "Co-expression" "Chowdary-Mazumder-2006" "GEO" 16436632
+"77" "Co-expression.Chuang-Kipps-2012.txt" "Co-expression" "Chuang-Kipps-2012" "GEO" 22837534
+"78" "Co-expression.Clarke-Clynes-2013.txt" "Co-expression" "Clarke-Clynes-2013" "GEO" 23740839
+"79" "Co-expression.Cliff-Dockrell-2013.txt" "Co-expression" "Cliff-Dockrell-2013" "GEO" 22872737
+"80" "Co-expression.Coelho-Hearing-2015.txt" "Co-expression" "Coelho-Hearing-2015" "GEO" 25417821
+"81" "Co-expression.Compagno-Pasqualucci-2009.txt" "Co-expression" "Compagno-Pasqualucci-2009" "GEO" 19412164
+"82" "Co-expression.Corvol-Baranzini-2008.txt" "Co-expression" "Corvol-Baranzini-2008" "GEO" 18689680
+"83" "Co-expression.Coustan-Smith-Campana-2011.txt" "Co-expression" "Coustan-Smith-Campana-2011" "GEO" 21487112
+"84" "Co-expression.Creighton-Chang-2012.txt" "Co-expression" "Creighton-Chang-2012" "GEO" 21750966
+"85" "Co-expression.Cuadras-Greenberg-2002.txt" "Co-expression" "Cuadras-Greenberg-2002" "SUPPLEMENTARY_MATERIAL" 11932413
+"86" "Co-expression.D'Alfonso-Shin-2013.txt" "Co-expression" "D'Alfonso-Shin-2013" "GEO" 23774991
+"87" "Co-expression.Day-Maxwell-2011.txt" "Co-expression" "Day-Maxwell-2011" "GEO" 21619611
+"88" "Co-expression.De_Jager-Oksenberg-2009.txt" "Co-expression" "De Jager-Oksenberg-2009" "GEO" 19525953
+"89" "Co-expression.Demmer-Papapanou-2008.txt" "Co-expression" "Demmer-Papapanou-2008" "GEO" 18980520
+"90" "Co-expression.Den_Boer-Pieters-2009_A.txt" "Co-expression" "Den Boer-Pieters-2009 A" "GEO" 19138562
+"91" "Co-expression.Den_Boer-Pieters-2009_B.txt" "Co-expression" "Den Boer-Pieters-2009 B" "GEO" 19138562
+"92" "Co-expression.Der-Tsao-2014.txt" "Co-expression" "Der-Tsao-2014" "GEO" 24305008
+"93" "Co-expression.Desmedt-Sotiriou-2007.txt" "Co-expression" "Desmedt-Sotiriou-2007" "GEO" 17545524
+"94" "Co-expression.Detweiler-Falkow-2001.txt" "Co-expression" "Detweiler-Falkow-2001" "SUPPLEMENTARY_MATERIAL" 11320214
+"95" "Co-expression.Dombroski-Spielman-2010.txt" "Co-expression" "Dombroski-Spielman-2010" "GEO" 20398888
+"96" "Co-expression.Driscoll-Munshi-2010.txt" "Co-expression" "Driscoll-Munshi-2010" "GEO" 19965618
+"97" "Co-expression.Einecke-Halloran-2010.txt" "Co-expression" "Einecke-Halloran-2010" "GEO" 20501945
+"98" "Co-expression.Elashoff-Topol-2011_A.txt" "Co-expression" "Elashoff-Topol-2011 A" "GEO" 21443790
+"99" "Co-expression.Elashoff-Topol-2011_B.txt" "Co-expression" "Elashoff-Topol-2011 B" "GEO" 21443790
+"100" "Co-expression.Elashoff-Topol-2011_C.txt" "Co-expression" "Elashoff-Topol-2011 C" "GEO" 21443790
+"101" "Co-expression.Ellis-Mardis-2012.txt" "Co-expression" "Ellis-Mardis-2012" "GEO" 22722193
+"102" "Co-expression.Feng-Cheng-2014.txt" "Co-expression" "Feng-Cheng-2014" "GEO" 25141350
+"103" "Co-expression.Filipits-Gnant-2011.txt" "Co-expression" "Filipits-Gnant-2011" "GEO" 21807638
+"104" "Co-expression.Finak-Park-2006.txt" "Co-expression" "Finak-Park-2006" "GEO" 17054791
+"105" "Co-expression.Finak-Park-2008.txt" "Co-expression" "Finak-Park-2008" "GEO" 18438415
+"106" "Co-expression.Folkersen-Paulsson-Berne-2012.txt" "Co-expression" "Folkersen-Paulsson-Berne-2012" "GEO" 22371308
+"107" "Co-expression.Fountzilas-Fountzilas-2013.txt" "Co-expression" "Fountzilas-Fountzilas-2013" "GEO" 23950933
+"108" "Co-expression.Freedman-Nevins-2011.txt" "Co-expression" "Freedman-Nevins-2011" "GEO" 21745407
+"109" "Co-expression.Fry-Samson-2008.txt" "Co-expression" "Fry-Samson-2008" "GEO" 18805990
+"110" "Co-expression.Gadd-Perlman-2012.txt" "Co-expression" "Gadd-Perlman-2012" "GEO" 22952427
+"111" "Co-expression.Gaedcke-Ghadimi-2010.txt" "Co-expression" "Gaedcke-Ghadimi-2010" "GEO" 20725992
+"112" "Co-expression.Gao-Sellers-2015.txt" "Co-expression" "Gao-Sellers-2015" "GEO" 26479923
+"113" "Co-expression.Garber-Petersen-2001.txt" "Co-expression" "Garber-Petersen-2001" "SUPPLEMENTARY_MATERIAL" 11707590
+"114" "Co-expression.Gibault-Aurias-2012.txt" "Co-expression" "Gibault-Aurias-2012" "GEO" 22080063
+"115" "Co-expression.Gobble-Singer-2011.txt" "Co-expression" "Gobble-Singer-2011" "GEO" 21335544
+"116" "Co-expression.Griffin-Glass-2009.txt" "Co-expression" "Griffin-Glass-2009" "GEO" 19565504
+"117" "Co-expression.Grigoryev-Salomon-2010.txt" "Co-expression" "Grigoryev-Salomon-2010" "GEO" 20976225
+"118" "Co-expression.Gysin-McMahon-2012.txt" "Co-expression" "Gysin-McMahon-2012" "GEO" 22833572
+"119" "Co-expression.Gomez-Abad-Piris-2011.txt" "Co-expression" "Gomez-Abad-Piris-2011" "GEO" 21937691
+"120" "Co-expression.Haferlach-Falini-2009.txt" "Co-expression" "Haferlach-Falini-2009" "GEO" 19429869
+"121" "Co-expression.Hanamura-Shaughnessy-2006.txt" "Co-expression" "Hanamura-Shaughnessy-2006" "GEO" 16688228
+"122" "Co-expression.Hannenhalli-Cappola-2006.txt" "Co-expression" "Hannenhalli-Cappola-2006" "GEO" 16952980
+"123" "Co-expression.Harms-Bichakjian-2013.txt" "Co-expression" "Harms-Bichakjian-2013" "GEO" 23223137
+"124" "Co-expression.Hatzis-Symmans-2011_A.txt" "Co-expression" "Hatzis-Symmans-2011 A" "GEO" 21558518
+"125" "Co-expression.Hatzis-Symmans-2011_B.txt" "Co-expression" "Hatzis-Symmans-2011 B" "GEO" 21558518
+"126" "Co-expression.Hatzis-Symmans-2011_C.txt" "Co-expression" "Hatzis-Symmans-2011 C" "GEO" 21558518
+"127" "Co-expression.Haugen-Van_Houten-2010.txt" "Co-expression" "Haugen-Van Houten-2010" "GEO" 20090835
+"128" "Co-expression.Hegde-Luini-2015.txt" "Co-expression" "Hegde-Luini-2015" "GEO" 26701908
+"129" "Co-expression.Hendrix-Cho-2006.txt" "Co-expression" "Hendrix-Cho-2006" "GEO" 16452189
+"130" "Co-expression.Hessel-Tilley-2014.txt" "Co-expression" "Hessel-Tilley-2014" "GEO" 24465567
+"131" "Co-expression.Heuck-Barlogie-2012.txt" "Co-expression" "Heuck-Barlogie-2012" "GEO" 22855579
+"132" "Co-expression.Hinze-Grom-2010.txt" "Co-expression" "Hinze-Grom-2010" "GEO" 20576155
+"133" "Co-expression.Hochstenbach-van_Delft-2012.txt" "Co-expression" "Hochstenbach-van Delft-2012" "GEO" 22879202
+"134" "Co-expression.Holland-Grimbacher-2007.txt" "Co-expression" "Holland-Grimbacher-2007" "GEO" 17881745
+"135" "Co-expression.Holleman-Evans-2004.txt" "Co-expression" "Holleman-Evans-2004" "GEO" 15295046
+"136" "Co-expression.Homminga-Meijerink-2011.txt" "Co-expression" "Homminga-Meijerink-2011" "GEO" 21481790
+"137" "Co-expression.Honda-Kaneko-2010.txt" "Co-expression" "Honda-Kaneko-2010" "GEO" 20739080
+"138" "Co-expression.Horak-Liu-2013.txt" "Co-expression" "Horak-Liu-2013" "GEO" 23340299
+"139" "Co-expression.Hou-Philipsen-2010.txt" "Co-expression" "Hou-Philipsen-2010" "GEO" 20421987
+"140" "Co-expression.Huang-Perlman-2009.txt" "Co-expression" "Huang-Perlman-2009" "GEO" 19208794
+"141" "Co-expression.Hummel-Siebert-2006.txt" "Co-expression" "Hummel-Siebert-2006" "GEO" 16760442
+"142" "Co-expression.Hagg-Bjorkegren-2009.txt" "Co-expression" "Hagg-Bjorkegren-2009" "GEO" 19997623
+"143" "Co-expression.Ioannidis-Flano-2012.txt" "Co-expression" "Ioannidis-Flano-2012" "GEO" 22398282
+"144" "Co-expression.Iqbal-Chan-2010.txt" "Co-expression" "Iqbal-Chan-2010" "GEO" 19965671
+"145" "Co-expression.Iwamoto-Kato-2005.txt" "Co-expression" "Iwamoto-Kato-2005" "GEO" 15563509
+"146" "Co-expression.Iwamoto-Pusztai-2011.txt" "Co-expression" "Iwamoto-Pusztai-2011" "GEO" 21191116
+"147" "Co-expression.Iyer-Brown-1999.txt" "Co-expression" "Iyer-Brown-1999" "SUPPLEMENTARY_MATERIAL" 9872747
+"148" "Co-expression.Jones-Libermann-2005.txt" "Co-expression" "Jones-Libermann-2005" "GEO" 16115910
+"149" "Co-expression.Jorissen-Sieber-2008.txt" "Co-expression" "Jorissen-Sieber-2008" "GEO" 19088021
+"150" "Co-expression.Jorissen-Sieber-2009.txt" "Co-expression" "Jorissen-Sieber-2009" "GEO" 19996206
+"151" "Co-expression.Jezequel-Campone-2015.txt" "Co-expression" "Jezequel-Campone-2015" "GEO" 25887482
+"152" "Co-expression.Kabbarah-Chin-2010.txt" "Co-expression" "Kabbarah-Chin-2010" "GEO" 20520718
+"153" "Co-expression.Kaiser-Aronow-2007.txt" "Co-expression" "Kaiser-Aronow-2007" "GEO" 17615082
+"154" "Co-expression.Kang-Willman-2010_A.txt" "Co-expression" "Kang-Willman-2010 A" "GEO" 19880498
+"155" "Co-expression.Kang-Willman-2010_B.txt" "Co-expression" "Kang-Willman-2010 B" "GEO" 19880498
+"156" "Co-expression.Kannan-Zweidler-McKay-2011.txt" "Co-expression" "Kannan-Zweidler-McKay-2011" "GEO" 21224467
+"157" "Co-expression.Kao-Huang-2011.txt" "Co-expression" "Kao-Huang-2011" "GEO" 21501481
+"158" "Co-expression.Karlovich-Caulfield-2009.txt" "Co-expression" "Karlovich-Caulfield-2009" "GEO" 19500411
+"159" "Co-expression.Karn-Rody-2010.txt" "Co-expression" "Karn-Rody-2010" "GEO" 19455418
+"160" "Co-expression.Kikuchi-Sugihara-2013.txt" "Co-expression" "Kikuchi-Sugihara-2013" "GEO" 23065711
+"161" "Co-expression.Kim-Green-2011_A.txt" "Co-expression" "Kim-Green-2011 A" "GEO" 21364753
+"162" "Co-expression.Kim-Green-2011_B.txt" "Co-expression" "Kim-Green-2011 B" "GEO" 21364753
+"163" "Co-expression.Kim-Paik-2011.txt" "Co-expression" "Kim-Paik-2011" "GEO" 21947828
+"164" "Co-expression.Klein-Dugas-2009.txt" "Co-expression" "Klein-Dugas-2009" "GEO" 20003504
+"165" "Co-expression.Kobayashi-DeLeo-2010.txt" "Co-expression" "Kobayashi-DeLeo-2010" "GEO" 20587998
+"166" "Co-expression.Kogo-Mori-2011.txt" "Co-expression" "Kogo-Mori-2011" "GEO" 21862635
+"167" "Co-expression.Kohlmann-Haferlach-2008_A.txt" "Co-expression" "Kohlmann-Haferlach-2008 A" "GEO" 18573112
+"168" "Co-expression.Kohlmann-Haferlach-2008_B.txt" "Co-expression" "Kohlmann-Haferlach-2008 B" "GEO" 18573112
+"169" "Co-expression.Kuehner-Speit-2013.txt" "Co-expression" "Kuehner-Speit-2013" "GEO" 23649840
+"170" "Co-expression.LaBreche-Huang-2011.txt" "Co-expression" "LaBreche-Huang-2011" "GEO" 21781289
+"171" "Co-expression.Lai-Park-2014.txt" "Co-expression" "Lai-Park-2014" "GEO" 24757178
+"172" "Co-expression.Landi-Jen-2008.txt" "Co-expression" "Landi-Jen-2008" "GEO" 18297132
+"173" "Co-expression.Lauwerys-Houssiau-2013.txt" "Co-expression" "Lauwerys-Houssiau-2013" "GEO" 23203821
+"174" "Co-expression.Lee-Fine-2006.txt" "Co-expression" "Lee-Fine-2006" "GEO" 16697959
+"175" "Co-expression.Lee-Kim-2008.txt" "Co-expression" "Lee-Kim-2008" "GEO" 19010856
+"176" "Co-expression.Lee-MacDonald-2013.txt" "Co-expression" "Lee-MacDonald-2013" "GEO" 23595883
+"177" "Co-expression.Lenz-Staudt-2008.txt" "Co-expression" "Lenz-Staudt-2008" "GEO" 19038878
+"178" "Co-expression.Lesluyes-Chibon-2016.txt" "Co-expression" "Lesluyes-Chibon-2016" "GEO" 26916546
+"179" "Co-expression.Levy-Hessner-2012_A.txt" "Co-expression" "Levy-Hessner-2012 A" "GEO" 22972474
+"180" "Co-expression.Levy-Hessner-2012_B.txt" "Co-expression" "Levy-Hessner-2012 B" "GEO" 22972474
+"181" "Co-expression.Lewis-Ortel-2011.txt" "Co-expression" "Lewis-Ortel-2011" "GEO" 21737128
+"182" "Co-expression.Li-Ahuja-2014.txt" "Co-expression" "Li-Ahuja-2014" "GEO" 24583822
+"183" "Co-expression.Li-Bhatia-2011.txt" "Co-expression" "Li-Bhatia-2011" "GEO" 22094254
+"184" "Co-expression.Li-Bleecker-2015.txt" "Co-expression" "Li-Bleecker-2015" "GEO" 26119467
+"185" "Co-expression.Li-Han-2009.txt" "Co-expression" "Li-Han-2009" "GEO" 19755675
+"186" "Co-expression.Li-Wang-2010_A.txt" "Co-expression" "Li-Wang-2010 A" "GEO" 20098429
+"187" "Co-expression.Li-Wang-2010_B.txt" "Co-expression" "Li-Wang-2010 B" "GEO" 20098429
+"188" "Co-expression.Liang-Stephan-2007.txt" "Co-expression" "Liang-Stephan-2007" "GEO" 17077275
+"189" "Co-expression.Lisowska-Kupryjanczyk-2014.txt" "Co-expression" "Lisowska-Kupryjanczyk-2014" "GEO" 24478986
+"190" "Co-expression.Liu-Bratslavsky-2013.txt" "Co-expression" "Liu-Bratslavsky-2013" "GEO" 23136194
+"191" "Co-expression.Liu-Godbout-2011.txt" "Co-expression" "Liu-Godbout-2011" "GEO" 21356353
+"192" "Co-expression.Liu-Hsieh-2012.txt" "Co-expression" "Liu-Hsieh-2012" "GEO" 22553414
+"193" "Co-expression.Lu-Chuang-2010.txt" "Co-expression" "Lu-Chuang-2010" "GEO" 20802022
+"194" "Co-expression.Lu-Richardson-2008.txt" "Co-expression" "Lu-Richardson-2008" "GEO" 18297396
+"195" "Co-expression.Lucas-Chute-2014.txt" "Co-expression" "Lucas-Chute-2014" "GEO" 25255453
+"196" "Co-expression.Lugthart-Evans-2005.txt" "Co-expression" "Lugthart-Evans-2005" "GEO" 15837626
+"197" "Co-expression.Maertzdorf-Kaufmann-2011.txt" "Co-expression" "Maertzdorf-Kaufmann-2011" "GEO" 22046420
+"198" "Co-expression.Marisa-Boige-2013.txt" "Co-expression" "Marisa-Boige-2013" "GEO" 23700391
+"199" "Co-expression.Maser-DePinho-2007.txt" "Co-expression" "Maser-DePinho-2007" "GEO" 17515920
+"200" "Co-expression.Mateescu-Mechta-Grigoriou-2011.txt" "Co-expression" "Mateescu-Mechta-Grigoriou-2011" "GEO" 22101765
+"201" "Co-expression.Matsuyama-Sugihara-2010.txt" "Co-expression" "Matsuyama-Sugihara-2010" "GEO" 20162577
+"202" "Co-expression.Meier-Seiler-2009.txt" "Co-expression" "Meier-Seiler-2009" "GEO" 18728069
+"203" "Co-expression.Melis-Farci-2014.txt" "Co-expression" "Melis-Farci-2014" "GEO" 25141867
+"204" "Co-expression.Meyer-Debatin-2011.txt" "Co-expression" "Meyer-Debatin-2011" "GEO" 21295523
+"205" "Co-expression.Micke-Botling-2011.txt" "Co-expression" "Micke-Botling-2011" "GEO" 22011649
+"206" "Co-expression.Miller-Dixon-2007.txt" "Co-expression" "Miller-Dixon-2007" "GEO" 17885619
+"207" "Co-expression.Miller-Dixon-2012.txt" "Co-expression" "Miller-Dixon-2012" "GEO" 20697427
+"208" "Co-expression.Mills-Haferlach-2009.txt" "Co-expression" "Mills-Haferlach-2009" "GEO" 19443663
+"209" "Co-expression.Minn-Massague-2005.txt" "Co-expression" "Minn-Massague-2005" "GEO" 16049480
+"210" "Co-expression.Miyake-Noguchi-2012.txt" "Co-expression" "Miyake-Noguchi-2012" "GEO" 22320227
+"211" "Co-expression.Moffatt-Cookson-2007.txt" "Co-expression" "Moffatt-Cookson-2007" "GEO" 17611496
+"212" "Co-expression.Mraz-Kipps-2014.txt" "Co-expression" "Mraz-Kipps-2014" "GEO" 24787006
+"213" "Co-expression.Mullighan-Downing-2009.txt" "Co-expression" "Mullighan-Downing-2009" "GEO" 19129520
+"214" "Co-expression.Naesens-Sarwal-2011.txt" "Co-expression" "Naesens-Sarwal-2011" "GEO" 21881554
+"215" "Co-expression.Nair-Abecasis-2009.txt" "Co-expression" "Nair-Abecasis-2009" "GEO" 19169254
+"216" "Co-expression.Nakamura-Takeuchi-2016.txt" "Co-expression" "Nakamura-Takeuchi-2016" "GEO" 27435242
+"217" "Co-expression.Nakayama-Hasegawa-2007.txt" "Co-expression" "Nakayama-Hasegawa-2007" "GEO" 17464315
+"218" "Co-expression.Newman-Radeke-2012.txt" "Co-expression" "Newman-Radeke-2012" "GEO" 22364233
+"219" "Co-expression.Niu-Wang-2010.txt" "Co-expression" "Niu-Wang-2010" "GEO" 20923822
+"220" "Co-expression.Noble-Diehl-2010.txt" "Co-expression" "Noble-Diehl-2010" "GEO" 20848455
+"221" "Co-expression.Nookaew-Carlsson-2013.txt" "Co-expression" "Nookaew-Carlsson-2013" "GEO" 23264395
+"222" "Co-expression.Okayama-Yokota-2012.txt" "Co-expression" "Okayama-Yokota-2012" "GEO" 22080568
+"223" "Co-expression.Olmos-de_Bono-2012.txt" "Co-expression" "Olmos-de Bono-2012" "GEO" 23059046
+"224" "Co-expression.Ong-Howell-2009.txt" "Co-expression" "Ong-Howell-2009" "GEO" 19656771
+"225" "Co-expression.Ooi-Tan-2009.txt" "Co-expression" "Ooi-Tan-2009" "GEO" 19798449
+"226" "Co-expression.Pajtler-Pfister-2015.txt" "Co-expression" "Pajtler-Pfister-2015" "GEO" 25965575
+"227" "Co-expression.Papapanou-Demmer-2009.txt" "Co-expression" "Papapanou-Demmer-2009" "GEO" 19835625
+"228" "Co-expression.Payton-Ley-2009.txt" "Co-expression" "Payton-Ley-2009" "GEO" 19451695
+"229" "Co-expression.Pellagatti-Boultwood-2010.txt" "Co-expression" "Pellagatti-Boultwood-2010" "GEO" 20220779
+"230" "Co-expression.Peng-Katze-2009.txt" "Co-expression" "Peng-Katze-2009" "GEO" 19671175
+"231" "Co-expression.Peri-Russo-2012.txt" "Co-expression" "Peri-Russo-2012" "GEO" 23057841
+"232" "Co-expression.Petruzziello-Pellegrini-Marsden-2012.txt" "Co-expression" "Petruzziello-Pellegrini-Marsden-2012" "GEO" 22232208
+"233" "Co-expression.Pfister-Pommier-2009.txt" "Co-expression" "Pfister-Pommier-2009" "GEO" 19584232
+"234" "Co-expression.Popovici-Pusztai-2010_A.txt" "Co-expression" "Popovici-Pusztai-2010 A" "GEO" 20064235
+"235" "Co-expression.Popovici-Pusztai-2010_B.txt" "Co-expression" "Popovici-Pusztai-2010 B" "GEO" 20064235
+"236" "Co-expression.Postel-Vinay-Delattre-2012.txt" "Co-expression" "Postel-Vinay-Delattre-2012" "GEO" 22327514
+"237" "Co-expression.Potti-Nevins-2006.txt" "Co-expression" "Potti-Nevins-2006" "GEO" 16899777
+"238" "Co-expression.Radtke-Downing-2009.txt" "Co-expression" "Radtke-Downing-2009" "GEO" 19651601
+"239" "Co-expression.Raman-Crystal-2009.txt" "Co-expression" "Raman-Crystal-2009" "GEO" 19852842
+"240" "Co-expression.Raponi-Beer-2006.txt" "Co-expression" "Raponi-Beer-2006" "GEO" 16885343
+"241" "Co-expression.Raue-Trappe-2012.txt" "Co-expression" "Raue-Trappe-2012" "GEO" 22302958
+"242" "Co-expression.Reeve-Halloran-2013.txt" "Co-expression" "Reeve-Halloran-2013" "GEO" 23356949
+"243" "Co-expression.Ross-Brown-2000.txt" "Co-expression" "Ross-Brown-2000" "SUPPLEMENTARY_MATERIAL" 10700174
+"244" "Co-expression.Ross-Perou-2001.txt" "Co-expression" "Ross-Perou-2001" "SUPPLEMENTARY_MATERIAL" 11673656
+"245" "Co-expression.Rotunno-Landi-2011.txt" "Co-expression" "Rotunno-Landi-2011" "GEO" 21742797
+"246" "Co-expression.Rousseaux-Khochbin-2013.txt" "Co-expression" "Rousseaux-Khochbin-2013" "GEO" 23698379
+"247" "Co-expression.Sabatier-Bertucci-2011_A.txt" "Co-expression" "Sabatier-Bertucci-2011 A" "GEO" 20490655
+"248" "Co-expression.Sabatier-Bertucci-2011_B.txt" "Co-expression" "Sabatier-Bertucci-2011 B" "GEO" 22110708
+"249" "Co-expression.Salas-Chibon-2015.txt" "Co-expression" "Salas-Chibon-2015" "GEO" 25878329
+"250" "Co-expression.Salaverria-Siebert-2011.txt" "Co-expression" "Salaverria-Siebert-2011" "GEO" 21487109
+"251" "Co-expression.Savola-Vakkila-2011.txt" "Co-expression" "Savola-Vakkila-2011" "GEO" 22084725
+"252" "Co-expression.Scatolini-Chiorino-2010.txt" "Co-expression" "Scatolini-Chiorino-2010" "GEO" 19795447
+"253" "Co-expression.Scherzer-Gullans-2007.txt" "Co-expression" "Scherzer-Gullans-2007" "GEO" 17215369
+"254" "Co-expression.Schmidt-Gehrmann-2008.txt" "Co-expression" "Schmidt-Gehrmann-2008" "GEO" 18593943
+"255" "Co-expression.Scholtysik-Kuppers-2015.txt" "Co-expression" "Scholtysik-Kuppers-2015" "GEO" 25042405
+"256" "Co-expression.Scott-Rimsza-2014.txt" "Co-expression" "Scott-Rimsza-2014" "GEO" 24398326
+"257" "Co-expression.Sears-Subramaniam-2009.txt" "Co-expression" "Sears-Subramaniam-2009" "GEO" 19841271
+"258" "Co-expression.Seok-Tompkins-2013.txt" "Co-expression" "Seok-Tompkins-2013" "GEO" 23401516
+"259" "Co-expression.Shahmanesh-Tomlinson-2015.txt" "Co-expression" "Shahmanesh-Tomlinson-2015" "GEO" 25617630
+"260" "Co-expression.Shalhoub-Martin-2010.txt" "Co-expression" "Shalhoub-Martin-2010" "GEO" 20665672
+"261" "Co-expression.Shaykhiev-Crystal-2011.txt" "Co-expression" "Shaykhiev-Crystal-2011" "GEO" 20820852
+"262" "Co-expression.Shea-Musser-2010.txt" "Co-expression" "Shea-Musser-2010" "GEO" 20179180
+"263" "Co-expression.Shedden-Beer-2008.txt" "Co-expression" "Shedden-Beer-2008" "GEO" 18641660
+"264" "Co-expression.Sheffer-Domany-2009_A.txt" "Co-expression" "Sheffer-Domany-2009 A" "GEO" 19359472
+"265" "Co-expression.Sheffer-Domany-2009_B.txt" "Co-expression" "Sheffer-Domany-2009 B" "GEO" 19359472
+"266" "Co-expression.Singh-Celli-2011.txt" "Co-expression" "Singh-Celli-2011" "GEO" 21441172
+"267" "Co-expression.Sinnaeve-Granger-2009.txt" "Co-expression" "Sinnaeve-Granger-2009" "GEO" 19750006
+"268" "Co-expression.Skov-Hasselbalch-2011.txt" "Co-expression" "Skov-Hasselbalch-2011" "GEO" 21447007
+"269" "Co-expression.Skrzypczak-Ostrowsk-2010.txt" "Co-expression" "Skrzypczak-Ostrowsk-2010" "GEO" 20957034
+"270" "Co-expression.Smeets-Christiaens-2011.txt" "Co-expression" "Smeets-Christiaens-2011" "GEO" 21116709
+"271" "Co-expression.Smirnov-Cheung-2012.txt" "Co-expression" "Smirnov-Cheung-2012" "GEO" 21844125
+"272" "Co-expression.Smith-Beauchamp-2010.txt" "Co-expression" "Smith-Beauchamp-2010" "GEO" 19914252
+"273" "Co-expression.Sorich-Evans-2008.txt" "Co-expression" "Sorich-Evans-2008" "GEO" 18416598
+"274" "Co-expression.Sotiriou-Delorenzi-2006.txt" "Co-expression" "Sotiriou-Delorenzi-2006" "GEO" 16478745
+"275" "Co-expression.Spira-Brody-2007.txt" "Co-expression" "Spira-Brody-2007" "GEO" 17334370
+"276" "Co-expression.Steidl-Gascoyne-2010.txt" "Co-expression" "Steidl-Gascoyne-2010" "GEO" 20220182
+"277" "Co-expression.Stinson-Dornan-2011.txt" "Co-expression" "Stinson-Dornan-2011" "GEO" 21673316
+"278" "Co-expression.Stirewalt-Radich-2008.txt" "Co-expression" "Stirewalt-Radich-2008" "GEO" 17910043
+"279" "Co-expression.Stratford-Yeh-2010.txt" "Co-expression" "Stratford-Yeh-2010" "GEO" 20644708
+"280" "Co-expression.Stretch-Baracos-2013.txt" "Co-expression" "Stretch-Baracos-2013" "GEO" 23755224
+"281" "Co-expression.Strulovici-Barel-Crystal-2010.txt" "Co-expression" "Strulovici-Barel-Crystal-2010" "GEO" 20693378
+"282" "Co-expression.Sun-Fine-2006.txt" "Co-expression" "Sun-Fine-2006" "GEO" 16616334
+"283" "Co-expression.Sun-Troester-2013.txt" "Co-expression" "Sun-Troester-2013" "GEO" 23918601
+"284" "Co-expression.Suarez-Farinas-Krueger-2012.txt" "Co-expression" "Suarez-Farinas-Krueger-2012" "GEO" 22763790
+"285" "Co-expression.Swan-Spiller-2013.txt" "Co-expression" "Swan-Spiller-2013" "GEO" 22684480
+"286" "Co-expression.Symmans-Pusztai-2010.txt" "Co-expression" "Symmans-Pusztai-2010" "GEO" 20697068
+"287" "Co-expression.Srlie-Brresen-Dale-2001.txt" "Co-expression" "Srlie-Brresen-Dale-2001" "SUPPLEMENTARY_MATERIAL" 11553815
+"288" "Co-expression.Tabchy-Pusztai-2010.txt" "Co-expression" "Tabchy-Pusztai-2010" "GEO" 20829329
+"289" "Co-expression.Tacchetti-Cavo-2014.txt" "Co-expression" "Tacchetti-Cavo-2014" "GEO" 25159313
+"290" "Co-expression.Takahashi-Sugihara-2015.txt" "Co-expression" "Takahashi-Sugihara-2015" "GEO" 26499327
+"291" "Co-expression.Tan-Thiery-2014.txt" "Co-expression" "Tan-Thiery-2014" "GEO" 25214461
+"292" "Co-expression.Tarca-Zechner-2013.txt" "Co-expression" "Tarca-Zechner-2013" "GEO" 23966112
+"293" "Co-expression.Taskesen-Dohner-2011.txt" "Co-expression" "Taskesen-Dohner-2011" "GEO" 21177436
+"294" "Co-expression.Tateno-Hirabayashi-2013.txt" "Co-expression" "Tateno-Hirabayashi-2013" "GEO" 23526252
+"295" "Co-expression.Taylor-Belle-2007.txt" "Co-expression" "Taylor-Belle-2007" "GEO" 17267482
+"296" "Co-expression.Taylor-Kwo-2008.txt" "Co-expression" "Taylor-Kwo-2008" "GEO" 18986530
+"297" "Co-expression.Thomas-Potter-2015.txt" "Co-expression" "Thomas-Potter-2015" "GEO" 25927723
+"298" "Co-expression.Thurnherr-Lee-2016.txt" "Co-expression" "Thurnherr-Lee-2016" "GEO" 26817861
+"299" "Co-expression.Tian-Shaughnessy-2003_A.txt" "Co-expression" "Tian-Shaughnessy-2003 A" "GEO" 14695408
+"300" "Co-expression.Tian-Shaughnessy-2003_B.txt" "Co-expression" "Tian-Shaughnessy-2003 B" "GEO" 14695408
+"301" "Co-expression.Tilley-Crystal-2011.txt" "Co-expression" "Tilley-Crystal-2011" "GEO" 21829517
+"302" "Co-expression.Toedter-Baribaud-2011.txt" "Co-expression" "Toedter-Baribaud-2011" "GEO" 21448149
+"303" "Co-expression.Tomasson-Ley-2008.txt" "Co-expression" "Tomasson-Ley-2008" "GEO" 18270328
+"304" "Co-expression.Tomida-Takahashi-2009.txt" "Co-expression" "Tomida-Takahashi-2009" "GEO" 19414676
+"305" "Co-expression.Tothill-Bowtell-2008_A.txt" "Co-expression" "Tothill-Bowtell-2008 A" "GEO" 18698038
+"306" "Co-expression.Tothill-Bowtell-2008_B.txt" "Co-expression" "Tothill-Bowtell-2008 B" "GEO" 18698038
+"307" "Co-expression.Tripathi-Beauchamp-2014.txt" "Co-expression" "Tripathi-Beauchamp-2014" "GEO" 25320007
+"308" "Co-expression.Tsukamoto-Sugihara-2011.txt" "Co-expression" "Tsukamoto-Sugihara-2011" "GEO" 21270110
+"309" "Co-expression.Vallat-Bahram-2013.txt" "Co-expression" "Vallat-Bahram-2013" "GEO" 23267079
+"310" "Co-expression.Verhaak-Valk-2009.txt" "Co-expression" "Verhaak-Valk-2009" "GEO" 18838472
+"311" "Co-expression.Voraphani-Wenzel-2014.txt" "Co-expression" "Voraphani-Wenzel-2014" "GEO" 24518246
+"312" "Co-expression.Wagner-Ashkenazi-2007.txt" "Co-expression" "Wagner-Ashkenazi-2007" "GEO" 17767167
+"313" "Co-expression.Wang-Crystal-2011.txt" "Co-expression" "Wang-Crystal-2011" "GEO" 21490961
+"314" "Co-expression.Wang-Foekens-2005.txt" "Co-expression" "Wang-Foekens-2005" "GEO" 15721472
+"315" "Co-expression.Wang-McClelland-2010_A.txt" "Co-expression" "Wang-McClelland-2010 A" "GEO" 20663908
+"316" "Co-expression.Wang-McClelland-2010_B.txt" "Co-expression" "Wang-McClelland-2010 B" "GEO" 20663908
+"317" "Co-expression.Wardell-McDonnell-2012.txt" "Co-expression" "Wardell-McDonnell-2012" "GEO" 22570330
+"318" "Co-expression.Warren-Tompkins-2009.txt" "Co-expression" "Warren-Tompkins-2009" "GEO" 19593405
+"319" "Co-expression.Watanabe-Muto-2011.txt" "Co-expression" "Watanabe-Muto-2011" "GEO" 21680303
+"320" "Co-expression.Watanabe-Nagawa-2007.txt" "Co-expression" "Watanabe-Nagawa-2007" "GEO" 17255260
+"321" "Co-expression.Whitfield-Botstein-2002.txt" "Co-expression" "Whitfield-Botstein-2002" "SUPPLEMENTARY_MATERIAL" 12058064
+"322" "Co-expression.Williams-DeVane-Edwards-2013.txt" "Co-expression" "Williams-DeVane-Edwards-2013" "GEO" 24188919
+"323" "Co-expression.Williams-Gascoyne-2010.txt" "Co-expression" "Williams-Gascoyne-2010" "GEO" 20688907
+"324" "Co-expression.Winter-Larson-2007.txt" "Co-expression" "Winter-Larson-2007" "GEO" 17495134
+"325" "Co-expression.Wong-Aronow-2007.txt" "Co-expression" "Wong-Aronow-2007" "GEO" 17374846
+"326" "Co-expression.Wong-Shanley-2009_A.txt" "Co-expression" "Wong-Shanley-2009 A" "GEO" 19325468
+"327" "Co-expression.Wong-Shanley-2009_B.txt" "Co-expression" "Wong-Shanley-2009 B" "GEO" 19624809
+"328" "Co-expression.Woodruff-Fahy-2007.txt" "Co-expression" "Woodruff-Fahy-2007" "GEO" 17898169
+"329" "Co-expression.Woods-Ginsburg-2013.txt" "Co-expression" "Woods-Ginsburg-2013" "GEO" 23326326
+"330" "Co-expression.Wouters-Delwel-2009.txt" "Co-expression" "Wouters-Delwel-2009" "GEO" 19171880
+"331" "Co-expression.Wynn-Wong-2011.txt" "Co-expression" "Wynn-Wong-2011" "GEO" 21738952
+"332" "Co-expression.Xiang-Weilbaecher-2015.txt" "Co-expression" "Xiang-Weilbaecher-2015" "GEO" 26269605
+"333" "Co-expression.Xiao-Tompkins-2011.txt" "Co-expression" "Xiao-Tompkins-2011" "GEO" 22110166
+"334" "Co-expression.Xu-Shannon-2013.txt" "Co-expression" "Xu-Shannon-2013" "GEO" 23733505
+"335" "Co-expression.Yang-Steele-2012.txt" "Co-expression" "Yang-Steele-2012" "GEO" 22761659
+"336" "Co-expression.Yao-Jallal-2008.txt" "Co-expression" "Yao-Jallal-2008" "GEO" 18648529
+"337" "Co-expression.Yoshihara-Tanaka-2010.txt" "Co-expression" "Yoshihara-Tanaka-2010" "GEO" 20300634
+"338" "Co-expression.Yu-Lee-2012.txt" "Co-expression" "Yu-Lee-2012" "GEO" 23251464
+"339" "Co-expression.Yu-Tan-2008.txt" "Co-expression" "Yu-Tan-2008" "GEO" 18636107
+"340" "Co-expression.Zaas-Ginsburg-2009.txt" "Co-expression" "Zaas-Ginsburg-2009" "GEO" 19664979
+"341" "Co-expression.Zangrando-Basso-2009.txt" "Co-expression" "Zangrando-Basso-2009" "GEO" 19549311
+"342" "Co-expression.Zhang-Foekens-2009.txt" "Co-expression" "Zhang-Foekens-2009" "GEO" 18821012
+"343" "Co-expression.Zhang-Mullighan-2012.txt" "Co-expression" "Zhang-Mullighan-2012" "GEO" 22237106
+"344" "Co-expression.Zhou-O'Keefe-2010.txt" "Co-expression" "Zhou-O'Keefe-2010" "GEO" 20479259
+"345" "Co-expression.de_Cremoux-Spyratos-2011.txt" "Co-expression" "de Cremoux-Spyratos-2011" "GEO" 21631949
+"346" "Co-expression.de_Sousa_E_Melo-Medema-2011.txt" "Co-expression" "de Sousa E Melo-Medema-2011" "GEO" 22056143
+"347" "Co-expression.den_Boon-Ahlquist-2015.txt" "Co-expression" "den Boon-Ahlquist-2015" "GEO" 26056290
+"348" "Co-expression.Ramaswamy-Golub-2001.txt" "Co-expression" "Ramaswamy-Golub-2001" "SUPPLEMENTARY_MATERIAL" 11742071
+"349" "Co-expression.Wang-Maris-2006.txt" "Co-expression" "Wang-Maris-2006" "GEO" 16778177
+"350" "Co-expression.Mallon-McKay-2013.txt" "Co-expression" "Mallon-McKay-2013" "GEO" 23117585
+"351" "Co-expression.Alizadeh-Staudt-2000.txt" "Co-expression" "Alizadeh-Staudt-2000" "SUPPLEMENTARY_MATERIAL" 10676951
+"352" "Co-expression.Boldrick-Relman-2002.txt" "Co-expression" "Boldrick-Relman-2002" "SUPPLEMENTARY_MATERIAL" 11805339
+"353" "Co-expression.Bild-Nevins-2006_B.txt" "Co-expression" "Bild-Nevins-2006 B" "GEO" 16273092
+"354" "Co-expression.Rieger-Chu-2004.txt" "Co-expression" "Rieger-Chu-2004" "GEO" 15096622
+"355" "Co-expression.Burington-Shaughnessy-2008.txt" "Co-expression" "Burington-Shaughnessy-2008" "GEO" 18676754
+"356" "Co-expression.Dobbin-Giordano-2005.txt" "Co-expression" "Dobbin-Giordano-2005" "GEO" 15701842
+"357" "Co-expression.Perou-Botstein-1999.txt" "Co-expression" "Perou-Botstein-1999" "SUPPLEMENTARY_MATERIAL" 10430922
+"358" "Co-expression.Innocenti-Brown-2011.txt" "Co-expression" "Innocenti-Brown-2011" "GEO" 21637794
+"359" "Co-expression.Wang-Cheung-2015.txt" "Co-expression" "Wang-Cheung-2015" "GEO" 26202599
+"360" "Co-expression.Perou-Botstein-2000.txt" "Co-expression" "Perou-Botstein-2000" "SUPPLEMENTARY_MATERIAL" 10963602
+"361" "Co-expression.Wu-Garvey-2007.txt" "Co-expression" "Wu-Garvey-2007" "GEO" 17709892
+"362" "Co-expression.Rosenwald-Staudt-2001.txt" "Co-expression" "Rosenwald-Staudt-2001" "SUPPLEMENTARY_MATERIAL" 11733578
+"363" "Co-expression.Roth-Zlotnik-2006.txt" "Co-expression" "Roth-Zlotnik-2006" "GEO" 16572319
+"364" "Co-expression.Chen-Brown-2002.txt" "Co-expression" "Chen-Brown-2002" "SUPPLEMENTARY_MATERIAL" 12058060
+"365" "Co-expression.Bahr-Bowler-2013.txt" "Co-expression" "Bahr-Bowler-2013" "GEO" 23590301
+"366" "Co-expression.Noble-Diehl-2008.txt" "Co-expression" "Noble-Diehl-2008" "GEO" 18523026
+"367" "Co-expression.Smirnov-Cheung-2009.txt" "Co-expression" "Smirnov-Cheung-2009" "GEO" 19349959
+"368" "Physical_Interactions.Abu-Odeh-Aqeilan-2014.txt" "Physical Interactions" "Abu-Odeh-Aqeilan-2014" "IREF" 24550385
+"369" "Physical_Interactions.Agrawal-Sedivy-2010.txt" "Physical Interactions" "Agrawal-Sedivy-2010" "IREF" 21150319
+"370" "Physical_Interactions.Aichem-Groettrup-2012.txt" "Physical Interactions" "Aichem-Groettrup-2012" "IREF" 22797925
+"371" "Physical_Interactions.Albers-Koegl-2005.txt" "Physical Interactions" "Albers-Koegl-2005" "IREF" 15604093
+"372" "Physical_Interactions.Alexandru-Deshaies-2008.txt" "Physical Interactions" "Alexandru-Deshaies-2008" "IREF" 18775313
+"373" "Physical_Interactions.Andresen-Flores-Morales-2014.txt" "Physical Interactions" "Andresen-Flores-Morales-2014" "IREF" 24337577
+"374" "Physical_Interactions.Arbuckle-Grant-2010.txt" "Physical Interactions" "Arbuckle-Grant-2010" "IREF" 20467438
+"375" "Physical_Interactions.Arroyo-Aloy-2014.txt" "Physical Interactions" "Arroyo-Aloy-2014" "IREF" 24412244
+"376" "Physical_Interactions.Arroyo-Aloy-2015.txt" "Physical Interactions" "Arroyo-Aloy-2015" "IREF" 25640309
+"377" "Physical_Interactions.BIOGRID-SMALL-SCALE-STUDIES.txt" "Physical Interactions" "BIOGRID-SMALL-SCALE-STUDIES" "BIOGRID" 0
+"378" "Physical_Interactions.Bandyopadhyay-Ideker-2010.txt" "Physical Interactions" "Bandyopadhyay-Ideker-2010" "IREF" 20936779
+"379" "Physical_Interactions.Bantscheff-Drewes-2011.txt" "Physical Interactions" "Bantscheff-Drewes-2011" "BIOGRID" 21258344
+"380" "Physical_Interactions.Barr-Knapp-2009.txt" "Physical Interactions" "Barr-Knapp-2009" "IREF" 19167335
+"381" "Physical_Interactions.Barrios-Rodiles-Wrana-2005.txt" "Physical Interactions" "Barrios-Rodiles-Wrana-2005" "IREF" 15761153
+"382" "Physical_Interactions.Behrends-Harper-2010.txt" "Physical Interactions" "Behrends-Harper-2010" "IREF" 20562859
+"383" "Physical_Interactions.Behzadnia-Luhrmann-2007.txt" "Physical Interactions" "Behzadnia-Luhrmann-2007" "IREF" 17332742
+"384" "Physical_Interactions.Bennett-Harper-2010.txt" "Physical Interactions" "Bennett-Harper-2010" "BIOGRID" 21145461
+"385" "Physical_Interactions.Benzinger-Hermeking-2005.txt" "Physical Interactions" "Benzinger-Hermeking-2005" "IREF" 15778465
+"386" "Physical_Interactions.Berggard-James-2006.txt" "Physical Interactions" "Berggard-James-2006" "IREF" 16512683
+"387" "Physical_Interactions.Bett-Hay-2013.txt" "Physical Interactions" "Bett-Hay-2013" "IREF" 23398456
+"388" "Physical_Interactions.Bhatnagar-Attie-2014.txt" "Physical Interactions" "Bhatnagar-Attie-2014" "IREF" 25002582
+"389" "Physical_Interactions.Blandin-Richard-2013.txt" "Physical Interactions" "Blandin-Richard-2013" "IREF" 23414517
+"390" "Physical_Interactions.Blomen-Brummelkamp-2015.txt" "Physical Interactions" "Blomen-Brummelkamp-2015" "BIOGRID" 26472760
+"391" "Physical_Interactions.Bogachek-Weigel-2014.txt" "Physical Interactions" "Bogachek-Weigel-2014" "IREF" 24835590
+"392" "Physical_Interactions.Bonacci-Soubeyran-2014.txt" "Physical Interactions" "Bonacci-Soubeyran-2014" "IREF" 24654937
+"393" "Physical_Interactions.Bouwmeester-Superti-Furga-2004.txt" "Physical Interactions" "Bouwmeester-Superti-Furga-2004" "IREF" 14743216
+"394" "Physical_Interactions.Brajenovic-Drewes-2004.txt" "Physical Interactions" "Brajenovic-Drewes-2004" "IREF" 14676191
+"395" "Physical_Interactions.Brehme-Superti-Furga-2009.txt" "Physical Interactions" "Brehme-Superti-Furga-2009" "IREF" 19380743
+"396" "Physical_Interactions.Bruderer-Hay-2011.txt" "Physical Interactions" "Bruderer-Hay-2011" "IREF" 21252943
+"397" "Physical_Interactions.Butland-Hayden-2014.txt" "Physical Interactions" "Butland-Hayden-2014" "IREF" 24705354
+"398" "Physical_Interactions.Byron-Humphries-2012.txt" "Physical Interactions" "Byron-Humphries-2012" "IREF" 22623428
+"399" "Physical_Interactions.Cai-Conaway-2007.txt" "Physical Interactions" "Cai-Conaway-2007" "BIOGRID" 17721549
+"400" "Physical_Interactions.Camargo-Brandon-2007.txt" "Physical Interactions" "Camargo-Brandon-2007" "IREF" 17043677
+"401" "Physical_Interactions.Campos-Reinberg-2015.txt" "Physical Interactions" "Campos-Reinberg-2015" "BIOGRID" 26527279
+"402" "Physical_Interactions.Cao-Chinnaiyan-2014.txt" "Physical Interactions" "Cao-Chinnaiyan-2014" "IREF" 24457600
+"403" "Physical_Interactions.Carmon-Liu-2014.txt" "Physical Interactions" "Carmon-Liu-2014" "IREF" 24639526
+"404" "Physical_Interactions.Chen-Ge-2013.txt" "Physical Interactions" "Chen-Ge-2013" "IREF" 23824909
+"405" "Physical_Interactions.Chen-Zhang-2013.txt" "Physical Interactions" "Chen-Zhang-2013" "IREF" 23402259
+"406" "Physical_Interactions.Christianson-Kopito-2011.txt" "Physical Interactions" "Christianson-Kopito-2011" "IREF" 22119785
+"407" "Physical_Interactions.Cloutier-Coulombe-2013.txt" "Physical Interactions" "Cloutier-Coulombe-2013" "IREF" 23349634
+"408" "Physical_Interactions.Colland-Gauthier-2004.txt" "Physical Interactions" "Colland-Gauthier-2004" "IREF" 15231748
+"409" "Physical_Interactions.Corominas-Iakoucheva-2014.txt" "Physical Interactions" "Corominas-Iakoucheva-2014" "IREF" 24722188
+"410" "Physical_Interactions.Couzens-Gingras-2013.txt" "Physical Interactions" "Couzens-Gingras-2013" "BIOGRID" 24255178
+"411" "Physical_Interactions.Cox-Rizzino-2013.txt" "Physical Interactions" "Cox-Rizzino-2013" "IREF" 23667531
+"412" "Physical_Interactions.Coyaud-Raught-2015.txt" "Physical Interactions" "Coyaud-Raught-2015" "BIOGRID" 25900982
+"413" "Physical_Interactions.Danielsen-Nielsen-2011.txt" "Physical Interactions" "Danielsen-Nielsen-2011" "IREF" 21139048
+"414" "Physical_Interactions.Dart-Wells-2015.txt" "Physical Interactions" "Dart-Wells-2015" "BIOGRID" 26598620
+"415" "Physical_Interactions.Diner-Cristea-2015.txt" "Physical Interactions" "Diner-Cristea-2015" "BIOGRID" 25693804
+"416" "Physical_Interactions.Drissi-Boisvert-2015.txt" "Physical Interactions" "Drissi-Boisvert-2015" "BIOGRID" 25963833
+"417" "Physical_Interactions.Dyer-Sobral-2010.txt" "Physical Interactions" "Dyer-Sobral-2010" "IREF" 20711500
+"418" "Physical_Interactions.Emanuele-Elledge-2011.txt" "Physical Interactions" "Emanuele-Elledge-2011" "IREF" 21963094
+"419" "Physical_Interactions.Emdal-Olsen-2015.txt" "Physical Interactions" "Emdal-Olsen-2015" "BIOGRID" 25921289
+"420" "Physical_Interactions.Ewing-Figeys-2007.txt" "Physical Interactions" "Ewing-Figeys-2007" "IREF" 17353931
+"421" "Physical_Interactions.Fenner-Prehn-2010.txt" "Physical Interactions" "Fenner-Prehn-2010" "IREF" 20098747
+"422" "Physical_Interactions.Floyd-Pagliarini-2016.txt" "Physical Interactions" "Floyd-Pagliarini-2016" "BIOGRID" 27499296
+"423" "Physical_Interactions.Foerster-Ritter-2013.txt" "Physical Interactions" "Foerster-Ritter-2013" "IREF" 23956138
+"424" "Physical_Interactions.Fogeron-Lange-2013.txt" "Physical Interactions" "Fogeron-Lange-2013" "BIOGRID" 23443559
+"425" "Physical_Interactions.Foster-Marshall-2013.txt" "Physical Interactions" "Foster-Marshall-2013" "IREF" 23438482
+"426" "Physical_Interactions.Freibaum-Taylor-2010.txt" "Physical Interactions" "Freibaum-Taylor-2010" "IREF" 20020773
+"427" "Physical_Interactions.Gabriel-Baumgrass-2016.txt" "Physical Interactions" "Gabriel-Baumgrass-2016" "BIOGRID" 27637333
+"428" "Physical_Interactions.Galligan-Howley-2015.txt" "Physical Interactions" "Galligan-Howley-2015" "BIOGRID" 25476789
+"429" "Physical_Interactions.Gao-Reinberg-2012.txt" "Physical Interactions" "Gao-Reinberg-2012" "IREF" 22325352
+"430" "Physical_Interactions.Gautier-Hall-2009.txt" "Physical Interactions" "Gautier-Hall-2009" "IREF" 19454010
+"431" "Physical_Interactions.Giannone-Liu-2010.txt" "Physical Interactions" "Giannone-Liu-2010" "IREF" 20811636
+"432" "Physical_Interactions.Glatter-Gstaiger-2009.txt" "Physical Interactions" "Glatter-Gstaiger-2009" "BIOGRID" 19156129
+"433" "Physical_Interactions.Gloeckner-Ueffing-2007.txt" "Physical Interactions" "Gloeckner-Ueffing-2007" "BIOGRID" 17979178
+"434" "Physical_Interactions.Goehler-Wanker-2004.txt" "Physical Interactions" "Goehler-Wanker-2004" "IREF" 15383276
+"435" "Physical_Interactions.Golebiowski-Hay-2009.txt" "Physical Interactions" "Golebiowski-Hay-2009" "IREF" 19471022
+"436" "Physical_Interactions.Goudreault-Gingras-2009.txt" "Physical Interactions" "Goudreault-Gingras-2009" "IREF" 18782753
+"437" "Physical_Interactions.Grant-2010.txt" "Physical Interactions" "Grant-2010" "IREF" 21110914
+"438" "Physical_Interactions.Greco-Cristea-2011.txt" "Physical Interactions" "Greco-Cristea-2011" "IREF" 21081666
+"439" "Physical_Interactions.Grossmann-Stelzl-2015.txt" "Physical Interactions" "Grossmann-Stelzl-2015" "BIOGRID" 25814554
+"440" "Physical_Interactions.Guarani-Harper-2014.txt" "Physical Interactions" "Guarani-Harper-2014" "BIOGRID" 24344204
+"441" "Physical_Interactions.Gupta-Pelletier-2015.txt" "Physical Interactions" "Gupta-Pelletier-2015" "BIOGRID" 26638075
+"442" "Physical_Interactions.Hanson-Clayton-2014.txt" "Physical Interactions" "Hanson-Clayton-2014" "IREF" 24711643
+"443" "Physical_Interactions.Hauri-Gstaiger-2013.txt" "Physical Interactions" "Hauri-Gstaiger-2013" "BIOGRID" 24366813
+"444" "Physical_Interactions.Havrylov-Redowicz-2009.txt" "Physical Interactions" "Havrylov-Redowicz-2009" "IREF" 19531213
+"445" "Physical_Interactions.Havugimana-Emili-2012.txt" "Physical Interactions" "Havugimana-Emili-2012" "BIOGRID" 22939629
+"446" "Physical_Interactions.Hayes-Urbe-2012.txt" "Physical Interactions" "Hayes-Urbe-2012" "IREF" 23105109
+"447" "Physical_Interactions.Hegele-Stelzl-2012_A.txt" "Physical Interactions" "Hegele-Stelzl-2012 A" "BIOGRID" 22365833
+"448" "Physical_Interactions.Hegele-Stelzl-2012_B.txt" "Physical Interactions" "Hegele-Stelzl-2012 B" "BIOGRID" 22365833
+"449" "Physical_Interactions.Hein-Mann-2015.txt" "Physical Interactions" "Hein-Mann-2015" "BIOGRID" 26496610
+"450" "Physical_Interactions.Hill-Livingston-2014.txt" "Physical Interactions" "Hill-Livingston-2014" "IREF" 25184681
+"451" "Physical_Interactions.Humphries-Humphries-2009.txt" "Physical Interactions" "Humphries-Humphries-2009" "IREF" 19738201
+"452" "Physical_Interactions.Hutchins-Peters-2010.txt" "Physical Interactions" "Hutchins-Peters-2010" "BIOGRID" 20360068
+"453" "Physical_Interactions.Huttlin-Gygi-2015.txt" "Physical Interactions" "Huttlin-Gygi-2015" "BIOGRID" 26186194
+"454" "Physical_Interactions.IREF-BIND.txt" "Physical Interactions" "IREF-BIND" "IREF" 0
+"455" "Physical_Interactions.IREF-BIOGRID.txt" "Physical Interactions" "IREF-BIOGRID" "IREF" 0
+"456" "Physical_Interactions.IREF-DIP.txt" "Physical Interactions" "IREF-DIP" "IREF" 0
+"457" "Physical_Interactions.IREF-HPRD.txt" "Physical Interactions" "IREF-HPRD" "IREF" 0
+"458" "Physical_Interactions.IREF-INTACT.txt" "Physical Interactions" "IREF-INTACT" "IREF" 0
+"459" "Physical_Interactions.IREF-MATRIXDB.txt" "Physical Interactions" "IREF-MATRIXDB" "IREF" 0
+"460" "Physical_Interactions.IREF-MPPI.txt" "Physical Interactions" "IREF-MPPI" "IREF" 0
+"461" "Physical_Interactions.IREF-PUBMED.txt" "Physical Interactions" "IREF-PUBMED" "IREF" 0
+"462" "Physical_Interactions.IREF-SMALL-SCALE-STUDIES.txt" "Physical Interactions" "IREF-SMALL-SCALE-STUDIES" "IREF" 0
+"463" "Physical_Interactions.Ingham-Pawson-2005.txt" "Physical Interactions" "Ingham-Pawson-2005" "IREF" 16055720
+"464" "Physical_Interactions.Jeronimo-Coulombe-2007.txt" "Physical Interactions" "Jeronimo-Coulombe-2007" "BIOGRID" 17643375
+"465" "Physical_Interactions.Jin-Pawson-2004.txt" "Physical Interactions" "Jin-Pawson-2004" "IREF" 15324660
+"466" "Physical_Interactions.Johnson-Kerner-Wichterle-2015.txt" "Physical Interactions" "Johnson-Kerner-Wichterle-2015" "BIOGRID" 26460568
+"467" "Physical_Interactions.Jones-MacBeath-2006.txt" "Physical Interactions" "Jones-MacBeath-2006" "IREF" 16273093
+"468" "Physical_Interactions.Joshi-Cristea-2013.txt" "Physical Interactions" "Joshi-Cristea-2013" "IREF" 23752268
+"469" "Physical_Interactions.Jager-Krogan-2011.txt" "Physical Interactions" "Jager-Krogan-2011" "BIOGRID" 22190034
+"470" "Physical_Interactions.Kahle-Zoghbi-2011.txt" "Physical Interactions" "Kahle-Zoghbi-2011" "IREF" 21078624
+"471" "Physical_Interactions.Kaltenbach-Hughes-2007.txt" "Physical Interactions" "Kaltenbach-Hughes-2007" "IREF" 17500595
+"472" "Physical_Interactions.Katsogiannou-Rocchi-2014.txt" "Physical Interactions" "Katsogiannou-Rocchi-2014" "IREF" 25277244
+"473" "Physical_Interactions.Kim-Gygi-2011.txt" "Physical Interactions" "Kim-Gygi-2011" "IREF" 21906983
+"474" "Physical_Interactions.Kim-Major-2015.txt" "Physical Interactions" "Kim-Major-2015" "IREF" 25332235
+"475" "Physical_Interactions.Kneissl-Grummt-2003.txt" "Physical Interactions" "Kneissl-Grummt-2003" "BIOGRID" 12614612
+"476" "Physical_Interactions.Koch-Hermeking-2007.txt" "Physical Interactions" "Koch-Hermeking-2007" "IREF" 17314511
+"477" "Physical_Interactions.Kotlyar-Jurisica-2015.txt" "Physical Interactions" "Kotlyar-Jurisica-2015" "BIOGRID" 25402006
+"478" "Physical_Interactions.Kristensen-Foster-2012.txt" "Physical Interactions" "Kristensen-Foster-2012" "BIOGRID" 22863883
+"479" "Physical_Interactions.Karblane-Sarmiento-2015.txt" "Physical Interactions" "Karblane-Sarmiento-2015" "BIOGRID" 25659154
+"480" "Physical_Interactions.Krl-Gorlich-2015.txt" "Physical Interactions" "Krl-Gorlich-2015" "BIOGRID" 26673895
+"481" "Physical_Interactions.Lambert-Gingras-2015.txt" "Physical Interactions" "Lambert-Gingras-2015" "BIOGRID" 25281560
+"482" "Physical_Interactions.Lamoliatte-Thibault-2014.txt" "Physical Interactions" "Lamoliatte-Thibault-2014" "IREF" 25391492
+"483" "Physical_Interactions.Lau-Ronai-2012.txt" "Physical Interactions" "Lau-Ronai-2012" "IREF" 22304920
+"484" "Physical_Interactions.Lee-Songyang-2011.txt" "Physical Interactions" "Lee-Songyang-2011" "IREF" 21044950
+"485" "Physical_Interactions.Lehner-Sanderson-2004_A.txt" "Physical Interactions" "Lehner-Sanderson-2004 A" "IREF" 14667819
+"486" "Physical_Interactions.Lehner-Sanderson-2004_B.txt" "Physical Interactions" "Lehner-Sanderson-2004 B" "IREF" 15231747
+"487" "Physical_Interactions.Leng-Wang-2014.txt" "Physical Interactions" "Leng-Wang-2014" "IREF" 23862649
+"488" "Physical_Interactions.Leung-Jones-2014.txt" "Physical Interactions" "Leung-Jones-2014" "IREF" 24728074
+"489" "Physical_Interactions.Li-Chen-2015.txt" "Physical Interactions" "Li-Chen-2015" "BIOGRID" 25609649
+"490" "Physical_Interactions.Li-Dorf-2011_A.txt" "Physical Interactions" "Li-Dorf-2011 A" "BIOGRID" 21903422
+"491" "Physical_Interactions.Li-Dorf-2011_B.txt" "Physical Interactions" "Li-Dorf-2011 B" "BIOGRID" 21903422
+"492" "Physical_Interactions.Li-Dorf-2014.txt" "Physical Interactions" "Li-Dorf-2014" "IREF" 24778252
+"493" "Physical_Interactions.Li-Haura-2013.txt" "Physical Interactions" "Li-Haura-2013" "BIOGRID" 24189400
+"494" "Physical_Interactions.Lim-Zoghbi-2006.txt" "Physical Interactions" "Lim-Zoghbi-2006" "IREF" 16713569
+"495" "Physical_Interactions.Lipp-Guthrie-2015.txt" "Physical Interactions" "Lipp-Guthrie-2015" "BIOGRID" 26167880
+"496" "Physical_Interactions.Liu-Wang-2012.txt" "Physical Interactions" "Liu-Wang-2012" "IREF" 22268729
+"497" "Physical_Interactions.Lleres-Lamond-2010.txt" "Physical Interactions" "Lleres-Lamond-2010" "BIOGRID" 20467437
+"498" "Physical_Interactions.Loch-Strickler-2012.txt" "Physical Interactions" "Loch-Strickler-2012" "IREF" 22626734
+"499" "Physical_Interactions.Low-Heck-2014.txt" "Physical Interactions" "Low-Heck-2014" "BIOGRID" 25515538
+"500" "Physical_Interactions.Lu-Zhang-2013.txt" "Physical Interactions" "Lu-Zhang-2013" "IREF" 24163370
+"501" "Physical_Interactions.Mak-Moffat-2010.txt" "Physical Interactions" "Mak-Moffat-2010" "BIOGRID" 20305087
+"502" "Physical_Interactions.Malovannaya-Qin-2010.txt" "Physical Interactions" "Malovannaya-Qin-2010" "IREF" 20133760
+"503" "Physical_Interactions.Markson-Sanderson-2009.txt" "Physical Interactions" "Markson-Sanderson-2009" "IREF" 19549727
+"504" "Physical_Interactions.Marechal-Zou-2014.txt" "Physical Interactions" "Marechal-Zou-2014" "IREF" 24332808
+"505" "Physical_Interactions.Matsumoto-Nakayama-2005.txt" "Physical Interactions" "Matsumoto-Nakayama-2005" "BIOGRID" 16196087
+"506" "Physical_Interactions.McCracken-Blencowe-2005.txt" "Physical Interactions" "McCracken-Blencowe-2005" "IREF" 16159877
+"507" "Physical_Interactions.McFarland-Nussbaum-2008.txt" "Physical Interactions" "McFarland-Nussbaum-2008" "IREF" 18614564
+"508" "Physical_Interactions.Meek-Piwnica-Worms-2004.txt" "Physical Interactions" "Meek-Piwnica-Worms-2004" "IREF" 15161933
+"509" "Physical_Interactions.Milev-Mouland-2012.txt" "Physical Interactions" "Milev-Mouland-2012" "IREF" 23125841
+"510" "Physical_Interactions.Miyamoto-Sato-Yanagawa-2010.txt" "Physical Interactions" "Miyamoto-Sato-Yanagawa-2010" "IREF" 20195357
+"511" "Physical_Interactions.Murakawa-Landthaler-2015.txt" "Physical Interactions" "Murakawa-Landthaler-2015" "BIOGRID" 26170170
+"512" "Physical_Interactions.Nakayama-Ohara-2002.txt" "Physical Interactions" "Nakayama-Ohara-2002" "IREF" 12421765
+"513" "Physical_Interactions.Nakayasu-Adkins-2013.txt" "Physical Interactions" "Nakayasu-Adkins-2013" "IREF" 23649778
+"514" "Physical_Interactions.Napolitano-Meroni-2011.txt" "Physical Interactions" "Napolitano-Meroni-2011" "BIOGRID" 21143188
+"515" "Physical_Interactions.Narayan-Bennett-2012.txt" "Physical Interactions" "Narayan-Bennett-2012" "BIOGRID" 22496890
+"516" "Physical_Interactions.Nathan-Goldberg-2013.txt" "Physical Interactions" "Nathan-Goldberg-2013" "BIOGRID" 23314748
+"517" "Physical_Interactions.Neganova-Lako-2011.txt" "Physical Interactions" "Neganova-Lako-2011" "IREF" 21319273
+"518" "Physical_Interactions.Newman-Keating-2003.txt" "Physical Interactions" "Newman-Keating-2003" "IREF" 12805554
+"519" "Physical_Interactions.Nicholson-Hupp-2014.txt" "Physical Interactions" "Nicholson-Hupp-2014" "IREF" 24583282
+"520" "Physical_Interactions.Oliviero-Cagney-2015.txt" "Physical Interactions" "Oliviero-Cagney-2015" "BIOGRID" 26687479
+"521" "Physical_Interactions.Olma-Pintard-2009.txt" "Physical Interactions" "Olma-Pintard-2009" "BIOGRID" 19295130
+"522" "Physical_Interactions.Olah-Ovadi-2011.txt" "Physical Interactions" "Olah-Ovadi-2011" "IREF" 21832049
+"523" "Physical_Interactions.Oshikawa-Nakayama-2012.txt" "Physical Interactions" "Oshikawa-Nakayama-2012" "IREF" 22053931
+"524" "Physical_Interactions.Ouyang-Gill-2009.txt" "Physical Interactions" "Ouyang-Gill-2009" "BIOGRID" 19394292
+"525" "Physical_Interactions.Panigrahi-Pati-2012.txt" "Physical Interactions" "Panigrahi-Pati-2012" "IREF" 22145905
+"526" "Physical_Interactions.Papp-Lamia-2015.txt" "Physical Interactions" "Papp-Lamia-2015" "BIOGRID" 25756610
+"527" "Physical_Interactions.Perez-Hernandez-Yanez-Mo-2013.txt" "Physical Interactions" "Perez-Hernandez-Yanez-Mo-2013" "IREF" 23463506
+"528" "Physical_Interactions.Persaud-Rotin-2009.txt" "Physical Interactions" "Persaud-Rotin-2009" "IREF" 19953087
+"529" "Physical_Interactions.Petschnigg-Stagljar-2014.txt" "Physical Interactions" "Petschnigg-Stagljar-2014" "BIOGRID" 24658140
+"530" "Physical_Interactions.Phillips-Corn-2013.txt" "Physical Interactions" "Phillips-Corn-2013" "BIOGRID" 23801757
+"531" "Physical_Interactions.Pichlmair-Superti-Furga-2011.txt" "Physical Interactions" "Pichlmair-Superti-Furga-2011" "IREF" 21642987
+"532" "Physical_Interactions.Pichlmair-Superti-Furga-2012.txt" "Physical Interactions" "Pichlmair-Superti-Furga-2012" "BIOGRID" 22810585
+"533" "Physical_Interactions.Pilot-Storck-Goillot-2010.txt" "Physical Interactions" "Pilot-Storck-Goillot-2010" "IREF" 20368287
+"534" "Physical_Interactions.Povlsen-Choudhary-2012.txt" "Physical Interactions" "Povlsen-Choudhary-2012" "IREF" 23000965
+"535" "Physical_Interactions.Ramachandran-LaBaer-2004.txt" "Physical Interactions" "Ramachandran-LaBaer-2004" "IREF" 15232106
+"536" "Physical_Interactions.Raman-Harper-2015.txt" "Physical Interactions" "Raman-Harper-2015" "BIOGRID" 26389662
+"537" "Physical_Interactions.Ravasi-Hayashizaki-2010.txt" "Physical Interactions" "Ravasi-Hayashizaki-2010" "IREF" 20211142
+"538" "Physical_Interactions.Reinke-Keating-2013.txt" "Physical Interactions" "Reinke-Keating-2013" "BIOGRID" 23661758
+"539" "Physical_Interactions.Reyniers-Taymans-2014.txt" "Physical Interactions" "Reyniers-Taymans-2014" "IREF" 24947832
+"540" "Physical_Interactions.Richter-Chrzanowska-Lightowlers-2010.txt" "Physical Interactions" "Richter-Chrzanowska-Lightowlers-2010" "IREF" 20186120
+"541" "Physical_Interactions.Rolland-Vidal-2014.txt" "Physical Interactions" "Rolland-Vidal-2014" "BIOGRID" 25416956
+"542" "Physical_Interactions.Roux-Burke-2012.txt" "Physical Interactions" "Roux-Burke-2012" "IREF" 22412018
+"543" "Physical_Interactions.Rowbotham-Mermoud-2011.txt" "Physical Interactions" "Rowbotham-Mermoud-2011" "IREF" 21549307
+"544" "Physical_Interactions.Roy-Pardo-2014.txt" "Physical Interactions" "Roy-Pardo-2014" "BIOGRID" 25324306
+"545" "Physical_Interactions.Roy-Parent-2013.txt" "Physical Interactions" "Roy-Parent-2013" "IREF" 23798571
+"546" "Physical_Interactions.Rual-Vidal-2005_A.txt" "Physical Interactions" "Rual-Vidal-2005 A" "BIOGRID" 16189514
+"547" "Physical_Interactions.Rual-Vidal-2005_B.txt" "Physical Interactions" "Rual-Vidal-2005 B" "BIOGRID" 16189514
+"548" "Physical_Interactions.Sang-Jackson-2011.txt" "Physical Interactions" "Sang-Jackson-2011" "IREF" 21565611
+"549" "Physical_Interactions.Sato-Conaway-2004.txt" "Physical Interactions" "Sato-Conaway-2004" "IREF" 15175163
+"550" "Physical_Interactions.Scholz-Taylor-2016.txt" "Physical Interactions" "Scholz-Taylor-2016" "BIOGRID" 26752685
+"551" "Physical_Interactions.Singh-Moore-2012.txt" "Physical Interactions" "Singh-Moore-2012" "IREF" 23084401
+"552" "Physical_Interactions.So-Colwill-2015.txt" "Physical Interactions" "So-Colwill-2015" "BIOGRID" 25852190
+"553" "Physical_Interactions.Soler-Lopez-Aloy-2011.txt" "Physical Interactions" "Soler-Lopez-Aloy-2011" "IREF" 21163940
+"554" "Physical_Interactions.Sowa-Harper-2009.txt" "Physical Interactions" "Sowa-Harper-2009" "BIOGRID" 19615732
+"555" "Physical_Interactions.Stehling-Lill-2012.txt" "Physical Interactions" "Stehling-Lill-2012" "IREF" 22678362
+"556" "Physical_Interactions.Stehling-Lill-2013.txt" "Physical Interactions" "Stehling-Lill-2013" "IREF" 23891004
+"557" "Physical_Interactions.Stelzl-Wanker-2005.txt" "Physical Interactions" "Stelzl-Wanker-2005" "IREF" 16169070
+"558" "Physical_Interactions.Stes-Gevaert-2014.txt" "Physical Interactions" "Stes-Gevaert-2014" "IREF" 24816145
+"559" "Physical_Interactions.Suter-Wanker-2013.txt" "Physical Interactions" "Suter-Wanker-2013" "IREF" 23275563
+"560" "Physical_Interactions.Taipale-Lindquist-2012.txt" "Physical Interactions" "Taipale-Lindquist-2012" "IREF" 22939624
+"561" "Physical_Interactions.Taipale-Lindquist-2014.txt" "Physical Interactions" "Taipale-Lindquist-2014" "IREF" 25036637
+"562" "Physical_Interactions.Takahashi-Conaway-2011.txt" "Physical Interactions" "Takahashi-Conaway-2011" "IREF" 21729782
+"563" "Physical_Interactions.Tarallo-Weisz-2011.txt" "Physical Interactions" "Tarallo-Weisz-2011" "IREF" 21182205
+"564" "Physical_Interactions.Tatham-Hay-2011.txt" "Physical Interactions" "Tatham-Hay-2011" "IREF" 21693764
+"565" "Physical_Interactions.Teixeira-Gomes-2010.txt" "Physical Interactions" "Teixeira-Gomes-2010" "IREF" 20473970
+"566" "Physical_Interactions.Thalappilly-Dusetti-2008.txt" "Physical Interactions" "Thalappilly-Dusetti-2008" "IREF" 18654987
+"567" "Physical_Interactions.Thompson-Luchansky-2014.txt" "Physical Interactions" "Thompson-Luchansky-2014" "IREF" 25147182
+"568" "Physical_Interactions.Tong-Moran-2014.txt" "Physical Interactions" "Tong-Moran-2014" "IREF" 24797263
+"569" "Physical_Interactions.Tsai-Cristea-2012.txt" "Physical Interactions" "Tsai-Cristea-2012" "IREF" 22586326
+"570" "Physical_Interactions.Udeshi-Carr-2012.txt" "Physical Interactions" "Udeshi-Carr-2012" "IREF" 22505724
+"571" "Physical_Interactions.Vandamme-Angrand-2011.txt" "Physical Interactions" "Vandamme-Angrand-2011" "IREF" 21282530
+"572" "Physical_Interactions.Varjosalo-Gstaiger-2013.txt" "Physical Interactions" "Varjosalo-Gstaiger-2013" "IREF" 23602568
+"573" "Physical_Interactions.Varjosalo-Superti-Furga-2013.txt" "Physical Interactions" "Varjosalo-Superti-Furga-2013" "BIOGRID" 23455922
+"574" "Physical_Interactions.Venkatesan-Vidal-2009.txt" "Physical Interactions" "Venkatesan-Vidal-2009" "IREF" 19060904
+"575" "Physical_Interactions.Vermeulen-Mann-2010.txt" "Physical Interactions" "Vermeulen-Mann-2010" "IREF" 20850016
+"576" "Physical_Interactions.Vinayagam-Wanker-2011.txt" "Physical Interactions" "Vinayagam-Wanker-2011" "BIOGRID" 21900206
+"577" "Physical_Interactions.Virok-Fulop-2011.txt" "Physical Interactions" "Virok-Fulop-2011" "BIOGRID" 21244100
+"578" "Physical_Interactions.Wagner-Choudhary-2011.txt" "Physical Interactions" "Wagner-Choudhary-2011" "IREF" 21890473
+"579" "Physical_Interactions.Wallach-Kramer-2013.txt" "Physical Interactions" "Wallach-Kramer-2013" "IREF" 23555304
+"580" "Physical_Interactions.Wan-Emili-2015.txt" "Physical Interactions" "Wan-Emili-2015" "BIOGRID" 26344197
+"581" "Physical_Interactions.Wang-Balch-2006.txt" "Physical Interactions" "Wang-Balch-2006" "IREF" 17110338
+"582" "Physical_Interactions.Wang-He-2008.txt" "Physical Interactions" "Wang-He-2008" "IREF" 18624398
+"583" "Physical_Interactions.Wang-Xu-2015.txt" "Physical Interactions" "Wang-Xu-2015" "IREF" 25192599
+"584" "Physical_Interactions.Wang-Yang-2011.txt" "Physical Interactions" "Wang-Yang-2011" "BIOGRID" 21988832
+"585" "Physical_Interactions.Weimann-Stelzl-2013_A.txt" "Physical Interactions" "Weimann-Stelzl-2013 A" "BIOGRID" 23455924
+"586" "Physical_Interactions.Weimann-Stelzl-2013_B.txt" "Physical Interactions" "Weimann-Stelzl-2013 B" "BIOGRID" 23455924
+"587" "Physical_Interactions.Weinmann-Meister-2009.txt" "Physical Interactions" "Weinmann-Meister-2009" "BIOGRID" 19167051
+"588" "Physical_Interactions.Wen-Wu-2014.txt" "Physical Interactions" "Wen-Wu-2014" "IREF" 25027693
+"589" "Physical_Interactions.Whisenant-Salomon-2015.txt" "Physical Interactions" "Whisenant-Salomon-2015" "BIOGRID" 26641092
+"590" "Physical_Interactions.Wilker-Yaffe-2007.txt" "Physical Interactions" "Wilker-Yaffe-2007" "IREF" 17361185
+"591" "Physical_Interactions.Witt-Labeit-2008.txt" "Physical Interactions" "Witt-Labeit-2008" "IREF" 18157088
+"592" "Physical_Interactions.Wong-O'Bryan-2012.txt" "Physical Interactions" "Wong-O'Bryan-2012" "IREF" 22558309
+"593" "Physical_Interactions.Woods-Monteiro-2012.txt" "Physical Interactions" "Woods-Monteiro-2012" "IREF" 22990118
+"594" "Physical_Interactions.Woodsmith-Sanderson-2012.txt" "Physical Interactions" "Woodsmith-Sanderson-2012" "IREF" 22493164
+"595" "Physical_Interactions.Wu-Li-2007.txt" "Physical Interactions" "Wu-Li-2007" "IREF" 17474147
+"596" "Physical_Interactions.Wu-Ma-2012.txt" "Physical Interactions" "Wu-Ma-2012" "IREF" 22952844
+"597" "Physical_Interactions.Xiao-Lefkowitz-2007.txt" "Physical Interactions" "Xiao-Lefkowitz-2007" "IREF" 17620599
+"598" "Physical_Interactions.Xie-Cong-2013.txt" "Physical Interactions" "Xie-Cong-2013" "IREF" 23184937
+"599" "Physical_Interactions.Xu-Ye-2012.txt" "Physical Interactions" "Xu-Ye-2012" "IREF" 23246001
+"600" "Physical_Interactions.Yang-Chen-2010.txt" "Physical Interactions" "Yang-Chen-2010" "BIOGRID" 20000738
+"601" "Physical_Interactions.Yatim-Benkirane-2012.txt" "Physical Interactions" "Yatim-Benkirane-2012" "IREF" 23022380
+"602" "Physical_Interactions.Yu-Chow-2013.txt" "Physical Interactions" "Yu-Chow-2013" "IREF" 23383273
+"603" "Physical_Interactions.Yu-Vidal-2011.txt" "Physical Interactions" "Yu-Vidal-2011" "BIOGRID" 21516116
+"604" "Physical_Interactions.Zanon-Pichler-2013.txt" "Physical Interactions" "Zanon-Pichler-2013" "IREF" 24244333
+"605" "Physical_Interactions.Zhang-Zou-2011.txt" "Physical Interactions" "Zhang-Zou-2011" "IREF" 22113938
+"606" "Physical_Interactions.Zhao-Krug-2005.txt" "Physical Interactions" "Zhao-Krug-2005" "IREF" 16009940
+"607" "Physical_Interactions.Zhao-Yang-2011.txt" "Physical Interactions" "Zhao-Yang-2011" "IREF" 21907836
+"608" "Physical_Interactions.Zhou-Conrads-2004.txt" "Physical Interactions" "Zhou-Conrads-2004" "IREF" 15174051
+"609" "Physical_Interactions.Zhou-Hanemann-2016.txt" "Physical Interactions" "Zhou-Hanemann-2016" "BIOGRID" 26549023
+"610" "Physical_Interactions.de_Hoog-Mann-2004.txt" "Physical Interactions" "de Hoog-Mann-2004" "IREF" 15163412
+"611" "Physical_Interactions.van_Wijk-Timmers-2009.txt" "Physical Interactions" "van Wijk-Timmers-2009" "IREF" 19690564
+"612" "Co-localization.Johnson-Shoemaker-2003.txt" "Co-localization" "Johnson-Shoemaker-2003" "GEO" 14684825
+"613" "Co-localization.Schadt-Shoemaker-2004.txt" "Co-localization" "Schadt-Shoemaker-2004" "GEO" 15461792
+"614" "Co-localization.Chen-Huang-2014.txt" "Co-localization" "Chen-Huang-2014" "BIOGRID" 25241761
+"615" "Co-localization.Zhang-Shang-2006.txt" "Co-localization" "Zhang-Shang-2006" "BIOGRID" 16957778
+"616" "Pathway.CELL_MAP.txt" "Pathway" "CELL_MAP" "PATHWAYCOMMONS" 0
+"617" "Pathway.HUMANCYC.txt" "Pathway" "HUMANCYC" "PATHWAYCOMMONS" 0
+"618" "Pathway.IMID.txt" "Pathway" "IMID" "PATHWAYCOMMONS" 0
+"619" "Pathway.NCI_NATURE.txt" "Pathway" "NCI_NATURE" "PATHWAYCOMMONS" 0
+"620" "Pathway.REACTOME.txt" "Pathway" "REACTOME" "PATHWAYCOMMONS" 0
+"621" "Pathway.Wu-Stein-2010.txt" "Pathway" "Wu-Stein-2010" "SUPPLEMENTARY_MATERIAL" 20482850
+"622" "Shared_protein_domains.INTERPRO.txt" "Shared protein domains" "INTERPRO" "INTERPRO" 0
+"623" "Shared_protein_domains.PFAM.txt" "Shared protein domains" "PFAM" "PFAM" 0
+"624" "Genetic_Interactions.BIOGRID-SMALL-SCALE-STUDIES.txt" "Genetic Interactions" "BIOGRID-SMALL-SCALE-STUDIES" "BIOGRID" 0
+"625" "Genetic_Interactions.Bailey-Hieter-2015.txt" "Genetic Interactions" "Bailey-Hieter-2015" "BIOGRID" 26354767
+"626" "Genetic_Interactions.Blomen-Brummelkamp-2015.txt" "Genetic Interactions" "Blomen-Brummelkamp-2015" "BIOGRID" 26472760
+"627" "Genetic_Interactions.IREF-SMALL-SCALE-STUDIES.txt" "Genetic Interactions" "IREF-SMALL-SCALE-STUDIES" "IREF" 0
+"628" "Genetic_Interactions.Lin-Smith-2010.txt" "Genetic Interactions" "Lin-Smith-2010" "SUPPLEMENTARY_MATERIAL" 20508145
+"629" "Genetic_Interactions.Luo-Elledge-2009.txt" "Genetic Interactions" "Luo-Elledge-2009" "BIOGRID" 19490893
+"630" "Genetic_Interactions.Toyoshima-Grandori-2012.txt" "Genetic Interactions" "Toyoshima-Grandori-2012" "BIOGRID" 22623531
+"631" "Genetic_Interactions.Vizeacoumar-Moffat-2013.txt" "Genetic Interactions" "Vizeacoumar-Moffat-2013" "BIOGRID" 24104479
+"632" "Genetic_Interactions.Willingham-Muchowski-2003.txt" "Genetic Interactions" "Willingham-Muchowski-2003" "BIOGRID" 14657499
+"633" "Genetic_Interactions.Xie-Green-2012.txt" "Genetic Interactions" "Xie-Green-2012" "BIOGRID" 23284306
+"634" "Physical_Interactions.BioPlex_2.3_interactionList.txt" "Physical Interactions" "" "BioPlex" 0
+"635" "Physical_Interactions.BioPlex_interactionList_v2.txt" "Physical Interactions" "" "BioPlex" 26186194
+"636" "Physical_Interactions.BioPlex_interactionList_v4a.txt" "Physical Interactions" "" "BioPlex" 28514442
