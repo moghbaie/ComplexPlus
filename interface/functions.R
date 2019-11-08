@@ -54,12 +54,11 @@ getProteinComplexMembership <- function(result,Complex_protein,protein_list ){
   dz <- Complex_protein %>%
     dplyr::filter(uniprotID %in% toupper(result[["Protein"]]))%>%
     dplyr::group_by(uniprotID) %>% dplyr::summarise(paste0(ComplexName, collapse="|"))
-  
   residue <- result[["Protein"]][!result[["Protein"]]%in% dz[["uniprotID"]]]
   dz2 <- data.frame(cbind(residue,rep("",length(residue))))
   colnames(dz) <- colnames(dz2) <- c("uniprotID","Complex")
   dz <- rbind(data.frame(dz),dz2)
-  result[["Membership"]] <- as.character(dz[["Complex"]])[match(as.character(result[["Protein"]]),dz$uniprotID)]
+  result[["Membership"]] <- as.character(dz[["Complex"]])[match(as.character(result[["Protein"]]),as.character(dz$uniprotID))]
   result[["count"]] <- ifelse(is.na(result[["Membership"]])|result[["Membership"]]=="", 0 ,stringr::str_count(result[["Membership"]], pattern = "\\|")+1)
   
   return(result)

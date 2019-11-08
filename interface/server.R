@@ -1,4 +1,6 @@
 
+
+
 source("functions.R", local=TRUE)
 load(file="db/interfacedbBackup.RData")
 
@@ -17,6 +19,7 @@ M_xl_graph_corrected.normalized <- interfaceDB$M_xl_graph_corrected.normalized
 M_Pathway.normalized <- interfaceDB$M_Pathway.normalized
 M_Disease2Protein <- interfaceDB$M_Disease2Protein
 mim_morbid <- interfaceDB$mim_morbid
+goa <- interfaceDB$goa
 
 rm(list=c("interfaceDB"))
 
@@ -379,6 +382,30 @@ server <- function(input, output,session) {
       result <- result[order(result$input,result$score),]
       result <- result[order(-result$score),]
       result <- result[!as.character(result$Protein) %in% as.character(complex),]
+      
+      Gos <- unlist(lapply(strsplit(as.character(db_hm[s,"Go.Annotations"]),"\\|")[[1]], function(x) gsub("\\(.*\\)","",x)))
+      
+      go1 <- unique(as.character(goa$GO[as.character(goa$GO) %in% Gos]))
+      
+      goa_sel <- goa[as.character(goa$GO) %in% Gos,]
+      
+      dim(goa_sel)
+      length(unique(goa_sel$uniprotID))
+      
+      goa_sel <- goa %>% 
+        dplyr::filter(GO %in% Gos)%>%
+        dplyr::group_by(uniprotID) %>%
+        dplyr::summarize(GO = paste0(GO,collapse="|"), 
+                         InterPro.ID = paste0(unique(unlist(strsplit(as.character(ID), "\\|"))), collapse="|"), 
+                         Description = paste0(unique(unlist(strsplit(as.character(Description), "\\,"))), collapse="|"),
+                         GO.type = paste0(unique(GO.type) , collapse = "|"))
+      
+      if(dim(goa_sel)[1]>0){
+        result <- cbind(result,goa_sel[match(as.character(result$Protein),goa_sel$uniprotID), c("GO","InterPro.ID","Description", "GO.type")])
+      }
+      
+      rownames(result) <- NULL
+      
       return(result)
     }
   },ignoreNULL = FALSE)
@@ -433,10 +460,13 @@ server <- function(input, output,session) {
       result_nodesDS <- data.frame(top_proteins, result_geneName)
       colnames(result_nodesDS) <- c("result_protein","result_geneName")
       result_uniprot <- lapply(as.character(result_nodesDS$result_protein), function(x) strsplit(x,"-")[[1]][1])
+      
+      top_interpro <- as.character(result$InterPro.ID[1:input$num])
+      
       result_nodes <- data.frame(id = top_proteins,
                                  label = ifelse(!is.na(result_nodesDS$result_geneName),as.character(result_nodesDS$result_geneName),as.character(result_nodesDS$result_protein)),
                                  shape = ifelse( result_nodesDS$result_protein %in% uniprot_ubiquitin_H_sapiens[["Entry"]],"triangle","dot"), 
-                                 color = list(background = "#FF9966", 
+                                 color = list(background = ifelse(is.na(top_interpro),"#FF9966","red"), 
                                               border = "black",
                                               highlight = "yellow"),
                                  font = list(size=22, bold= TRUE),
@@ -451,6 +481,7 @@ server <- function(input, output,session) {
       nodes$size[as.character(nodes$id) %in% getCalibrate()] <- 25
       
       edges <- rbind(edges3,result_edges)
+      save(nodes, edges,file="test.RData")
       return(list(nodes, edges))
     }
   })
@@ -472,9 +503,10 @@ server <- function(input, output,session) {
       edges$dashes <- ifelse(edges$type=="Pathway",TRUE,FALSE)
       edges$color <- ifelse(edges$type=="ComplexPortal", "#C1CDCD",ifelse(edges$type=="Pathway", "#CD5B45", ifelse(edges$type=="Physical Interaction","#458B74","deepskyblue")))
       
-      lnodes <- data.frame(label = c("Existing members","Closest interactors"), 
-                           color = c("linen","#FF9966"))
+      lnodes <- data.frame(label = c("Existing members","Closest interactors","interactors w domain" ), 
+                           color.background = c("linen","#FF9966", "red"))
       
+ 
       # edges data.frame for legend
       ledges <- data.frame(color = c("#C1CDCD", "#CD5B45","green","deepskyblue"),
                            label = c("ComplexPortal","Pathway","Physical Interaction","XL"))
@@ -505,7 +537,9 @@ server <- function(input, output,session) {
   })
   
   output$table3 <- DT::renderDataTable(DT::datatable({
-    dt <- returnInteractions()
+    dt <- returnInteractions() 
+
+    
     return(dt)
   }), selection = 'single')
   
